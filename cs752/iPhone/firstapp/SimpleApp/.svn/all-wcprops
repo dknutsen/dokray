@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/cs752/!svn/ver/4/iPhone/firstapp/SimpleApp
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/cs752/!svn/ver/4/iPhone/firstapp/SimpleApp/main.m
+END
+SimpleApp_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cs752/!svn/ver/4/iPhone/firstapp/SimpleApp/SimpleApp_Prefix.pch
+END
+whatupvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/4/iPhone/firstapp/SimpleApp/whatupvc.h
+END
+whatup.xib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/4/iPhone/firstapp/SimpleApp/whatup.xib
+END
+whatupvc.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/4/iPhone/firstapp/SimpleApp/whatupvc.m
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/4/iPhone/firstapp/SimpleApp/MainWindow.xib
+END
+SimpleApp-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cs752/!svn/ver/4/iPhone/firstapp/SimpleApp/SimpleApp-Info.plist
+END

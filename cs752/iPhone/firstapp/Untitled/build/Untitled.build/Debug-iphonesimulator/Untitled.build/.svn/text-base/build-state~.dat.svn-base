@@ -1,0 +1,777 @@
+TUntitled
+v7
+r0
+t289079639.420141
+cCheck dependencies
+cProcessInfoPlistFile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist Untitled-Info.plist
+cCompileXIB /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/MainWindow.xib
+cCompileXIB /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/UntitledViewController.xib
+cProcessPCH /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-aehkdndoovtzbccxrtmmxagzxldb/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledViewController.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Background.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Camera.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Image.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Light.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Material.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Object.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Object.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Plane.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/rt361.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Scene.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Sphere.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Timer.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Timer.cc normal i386 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B18589500000000000000EE
+t1259886741
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/mach/mach.h
+c00000000476340E90000000000001057
+t1197687017
+s4183
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/mach/mach_time.h
+c000000004763449D0000000000000746
+t1197687965
+s1862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/time.h
+c00000000476344C00000000000001E18
+t1197688000
+s7704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/time.h
+c000000004748A133000000000000178E
+t1195942195
+s6030
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/ppc_intrinsics.h
+c000000004748AF950000000000007B40
+t1195945877
+s31552
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp
+c000000004B806A0F00000000000000F6
+t1266706959
+s246
+i"Background.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h
+c000000004B806A0F00000000000001DB
+t1266706959
+s475
+i"RenderContext.h"
+i"Ray.h"
+i"Color.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp
+c000000004B806A0F00000000000002CF
+t1266706959
+s719
+i"Camera.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.h
+c000000004B806A0F000000000000040E
+t1266706959
+s1038
+i"Vector.h"
+i"Point.h"
+i"Ray.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h
+c000000004B806A0F0000000000000819
+t1266706959
+s2073
+i"Vector.h"
+i<iostream>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h
+c000000004B806A0F00000000000002C6
+t1266706959
+s710
+i"Primitive.h"
+i"Material.h"
+i<limits>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc
+c000000004B806A0F0000000000000EE1
+t1266706959
+s3809
+i<cmath>
+i<fstream>
+i<iostream>
+i"Image.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.h
+c000000004B806A0F000000000000058C
+t1266706959
+s1420
+i<string>
+i"Color.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp
+c000000004B806A0F0000000000000290
+t1266706959
+s656
+i"Light.h"
+i<limits>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.h
+c000000004B806A0F000000000000032C
+t1266706959
+s812
+i"Color.h"
+i"Vector.h"
+i"RenderContext.h"
+i"Point.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp
+c000000004B806A0F0000000000000AC5
+t1266706959
+s2757
+i"Material.h"
+i"HitRecord.h"
+i"Scene.h"
+i"Primitive.h"
+i"Ray.h"
+i"RenderContext.h"
+i"Light.h"
+i"Camera.h"
+i<math.h>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h
+c000000004B806A0F0000000000000384
+t1266706959
+s900
+i"Color.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Object.cpp
+c000000004B806A0F0000000000000170
+t1266706959
+s368
+i"Object.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Object.h
+c000000004B806A0F0000000000000210
+t1266706959
+s528
+i<vector>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp
+c000000004B806A0F00000000000003FC
+t1266706959
+s1020
+i"Plane.h"
+i"Ray.h"
+i"HitRecord.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.h
+c000000004B806A0F00000000000001DB
+t1266706959
+s475
+i"Primitive.h"
+i"Vector.h"
+i"Point.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h
+c000000004B806A0F00000000000005A3
+t1266706959
+s1443
+i"Vector.h"
+i<iostream>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h
+c000000004B806A0F00000000000001BB
+t1266706959
+s443
+i"Object.h"
+i"Vector.h"
+i"Point.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Ray.h
+c000000004B806A0F00000000000002E4
+t1266706959
+s740
+i"Vector.h"
+i"Point.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/RenderContext.h
+c000000004B806A0F00000000000000F1
+t1266706959
+s241
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp
+c000000004B806A0F0000000000000743
+t1266706959
+s1859
+i"Scene.h"
+i"Background.h"
+i"Camera.h"
+i"Object.h"
+i"Image.h"
+i"Light.h"
+i"Material.h"
+i"HitRecord.h"
+i"RenderContext.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.h
+c000000004B806A0F0000000000000377
+t1266706959
+s887
+i"Color.h"
+i<vector>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp
+c000000004B806A0F0000000000000690
+t1266706959
+s1680
+i"Sphere.h"
+i<iostream>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.h
+c000000004B806A0F00000000000002CB
+t1266706959
+s715
+i"Primitive.h"
+i"Vector.h"
+i"Point.h"
+i"Ray.h"
+i"HitRecord.h"
+i"RenderContext.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Timer.cc
+c000000004B806A0F000000000000030A
+t1266706959
+s778
+i<iomanip>
+i<iostream>
+i"Timer.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Timer.h
+c000000004B806A0F0000000000001066
+t1266706959
+s4198
+i<ppc_intrinsics.h>
+i<mach/mach.h>
+i<mach/mach_time.h>
+i<time.h>
+i<sys/time.h>
+i<algorithm>
+i<iosfwd>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.h
+c000000004B8AC62800000000000001E1
+t1267385896
+s481
+i<UIKit/UIKit.h>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.m
+c000000004B8AC628000000000000026B
+t1267385896
+s619
+i"UntitledAppDelegate.h"
+i"UntitledViewController.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledViewController.h
+c000000004B8AC62800000000000000ED
+t1267385896
+s237
+i<UIKit/UIKit.h>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledViewController.m
+c000000004B8AC62800000000000005B7
+t1267385896
+s1463
+i"UntitledViewController.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Vector.h
+c000000004B806A0F0000000000000984
+t1266706959
+s2436
+i<math.h>
+i<iostream>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/creative06.h
+c000000004B806A0F00000000000009F6
+t1266706959
+s2550
+i"Point.h"
+i"Vector.h"
+i"Scene.h"
+i"Object.h"
+i"Sphere.h"
+i"Plane.h"
+i"Background.h"
+i"Light.h"
+i"Camera.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc
+c000000004B806A0F000000000000030E
+t1266706959
+s782
+i<iostream>
+i"Timer.h"
+i"Image.h"
+i"creative06.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/MainWindow.xib
+c000000004B8AC6280000000000002459
+t1267385896
+s9305
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/UntitledViewController.xib
+c000000004B8AC62800000000000018DF
+t1267385896
+s6367
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Untitled_Prefix.pch
+c000000004B8AC62800000000000000B9
+t1267385896
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist
+t1267386834
+s568
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/MainWindow.nib
+t1267386835
+s1497
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/PkgInfo
+t1267386834
+s8
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/UntitledViewController.nib
+t1267386835
+s1151
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Background.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Camera.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Image.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Light.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Material.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Object.o
+t1267386838
+s59364
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Plane.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Scene.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Sphere.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Timer.o
+t1267386839
+s74904
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Untitled.LinkFileList
+c000000004B8AC9D20000000000000841
+t1267386834
+s2113
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
+t1267386836
+s38136
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledViewController.o
+t1267386836
+s30008
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
+t1267386836
+s6004
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/rt361.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/main.m
+c000000004B8AC6280000000000000166
+t1267385896
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-aehkdndoovtzbccxrtmmxagzxldb/Untitled_Prefix.pch.gch
+t1267386836
+s13034960
+
+N/var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch.gch
+t1267386835
+s2519408
+
+NUntitled-Info.plist
+c000000004B8AC628000000000000038D
+t1267385896
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289079634#289079634#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Background.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s289079636.870819
+e289079637.319428
+r0
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Background.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Ray.h:12,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h:5,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp:3:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h:6,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp:3:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'
+lSLF07#2@92"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp289079636#289079637#0(812"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Ray.h:12,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h:5,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp:3:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h:6,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp:3:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'2(4@47"Extra qualification 'Point::' on member 'Point'289079637#320#137#4(7@106"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp289079637#18446744073709551615#0#0(6@84"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp288399759#3#0#3#0#0"0(7@104"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h289079637#18446744073709551615#0#0(6@82"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h288399759#5#0#5#0#0"0(7@97"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Ray.h289079637#18446744073709551615#0#0(6@75"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Ray.h288399759#12#0#12#0#0"0(13@128"Extra qualification 'Point::' on member 'Point' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h289079637#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(4@47"Extra qualification 'Color::' on member 'Color'289079637#675#137#3(7@106"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp289079637#18446744073709551615#0#0(6@84"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp288399759#3#0#3#0#0"0(7@104"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h289079637#18446744073709551615#0#0(6@82"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h288399759#6#0#6#0#0"0(13@128"Extra qualification 'Color::' on member 'Color' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h289079637#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(0#0#84"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp4300885448#2165"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.cpp -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Background.o1#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Camera.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s289079636.926264
+e289079637.429495
+r0
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Camera.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.h:5,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp:3:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'
+lSLF07#2@88"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp289079636#289079637#0(347"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.h:5,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp:3:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'1(4@47"Extra qualification 'Point::' on member 'Point'289079637#210#137#3(7@102"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp289079637#18446744073709551615#0#0(6@80"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp288399759#3#0#3#0#0"0(7@100"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.h289079637#18446744073709551615#0#0(6@78"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.h288399759#5#0#5#0#0"0(13@128"Extra qualification 'Point::' on member 'Point' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h289079637#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(0#0#80"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp4300885448#2157"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Camera.cpp -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Camera.o1#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Image.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc normal i386 c++ com.apple.compilers.gcc.4_2
+s289079637.319522
+e289079637.869481
+r0
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Image.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.h:8,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc:12:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'
+lSLF07#2@86"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc289079637#289079637#0(345"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.h:8,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc:12:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'1(4@47"Extra qualification 'Color::' on member 'Color'289079637#208#137#3(7@100"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc289079637#18446744073709551615#0#0(6@78"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc288399759#12#0#12#0#0"0(7@99"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.h289079637#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.h288399759#8#0#8#0#0"0(13@128"Extra qualification 'Color::' on member 'Color' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h289079637#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(0#0#78"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc4300885448#2154"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.cc -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Image.o1#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Light.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s289079637.429603
+e289079637.828389
+r0
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Light.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.h:4,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp:3:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.h:7,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp:3:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'
+lSLF07#2@87"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp289079637#289079637#0(690"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.h:4,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp:3:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.h:7,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp:3:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'2(4@47"Extra qualification 'Color::' on member 'Color'289079637#208#137#3(7@101"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp289079637#18446744073709551615#0#0(6@79"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp288399759#3#0#3#0#0"0(7@99"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.h289079637#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.h288399759#4#0#4#0#0"0(13@128"Extra qualification 'Color::' on member 'Color' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h289079637#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(4@47"Extra qualification 'Point::' on member 'Point'289079637#553#137#3(7@101"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp289079637#18446744073709551615#0#0(6@79"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp288399759#3#0#3#0#0"0(7@99"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.h289079637#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.h288399759#7#0#7#0#0"0(13@128"Extra qualification 'Point::' on member 'Point' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h289079637#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(0#0#79"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp4300885448#2155"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Light.cpp -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Light.o1#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Material.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s289079637.828485
+e289079638.292832
+r0
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Material.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h:4,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp:3:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h:6,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h:4,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp:4:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'
+lSLF07#2@90"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp289079637#289079638#0(810"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h:4,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp:3:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h:6,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h:4,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp:4:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'2(4@47"Extra qualification 'Color::' on member 'Color'289079638#214#137#3(7@104"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp289079638#18446744073709551615#0#0(6@82"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp288399759#3#0#3#0#0"0(7@102"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h289079638#18446744073709551615#0#0(6@80"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h288399759#4#0#4#0#0"0(13@128"Extra qualification 'Color::' on member 'Color' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(4@47"Extra qualification 'Point::' on member 'Point'289079638#673#137#4(7@104"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp289079638#18446744073709551615#0#0(6@82"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp288399759#4#0#4#0#0"0(7@103"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h289079638#18446744073709551615#0#0(6@81"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h288399759#4#0#4#0#0"0(7@103"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h289079638#18446744073709551615#0#0(6@81"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h288399759#6#0#6#0#0"0(13@128"Extra qualification 'Point::' on member 'Point' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(0#0#82"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp4300885448#2161"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.cpp -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Material.o1#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Object.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Object.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s289079637.869583
+e289079638.135091
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Object.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Object.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Object.cpp289079637#289079638#0(0"0(0#0#80"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Object.cpp4300885448#2157"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Object.cpp -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Object.o0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Plane.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s289079638.135198
+e289079638.569140
+r0
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Plane.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h:6,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.h:4,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp:2:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h:4,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h:5,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp:4:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'
+lSLF07#2@87"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp289079638#289079638#0(907"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h:6,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.h:4,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp:2:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h:4,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h:5,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp:4:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'2(4@47"Extra qualification 'Point::' on member 'Point'289079638#315#137#4(7@101"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp289079638#18446744073709551615#0#0(6@79"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp288399759#2#0#2#0#0"0(7@99"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.h288399759#4#0#4#0#0"0(7@103"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h289079638#18446744073709551615#0#0(6@81"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h288399759#6#0#6#0#0"0(13@128"Extra qualification 'Point::' on member 'Point' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(4@47"Extra qualification 'Color::' on member 'Color'289079638#770#137#4(7@101"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp289079638#18446744073709551615#0#0(6@79"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp288399759#4#0#4#0#0"0(7@103"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h289079638#18446744073709551615#0#0(6@81"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h288399759#5#0#5#0#0"0(7@102"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h289079638#18446744073709551615#0#0(6@80"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h288399759#4#0#4#0#0"0(13@128"Extra qualification 'Color::' on member 'Color' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(0#0#79"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp8458374058888426496#2155"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Plane.cpp -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Plane.o1#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Scene.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s289079638.569240
+e289079639.033151
+r0
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Scene.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.h:4,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp:3:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Ray.h:12,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h:5,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp:4:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'
+lSLF07#2@87"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp289079638#289079639#0(797"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.h:4,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp:3:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Ray.h:12,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h:5,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp:4:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'2(4@47"Extra qualification 'Color::' on member 'Color'289079638#208#137#3(7@101"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp289079638#18446744073709551615#0#0(6@79"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp288399759#3#0#3#0#0"0(7@99"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.h288399759#4#0#4#0#0"0(13@128"Extra qualification 'Color::' on member 'Color' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(4@47"Extra qualification 'Point::' on member 'Point'289079639#660#137#4(7@101"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp289079639#18446744073709551615#0#0(6@79"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp288399759#4#0#4#0#0"0(7@104"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h289079639#18446744073709551615#0#0(6@82"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Background.h288399759#5#0#5#0#0"0(7@97"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Ray.h289079639#18446744073709551615#0#0(6@75"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Ray.h288399759#12#0#12#0#0"0(13@128"Extra qualification 'Point::' on member 'Point' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h289079639#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(0#0#79"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp4300885448#2155"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Scene.cpp -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Scene.o1#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Sphere.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s289079638.742219
+e289079639.179473
+r0
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Sphere.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h:6,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.h:11,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp:3:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h:4,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h:5,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.h:15,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp:3:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'
+lSLF07#2@88"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp289079638#289079639#0(1016"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h:6,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.h:11,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp:3:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h:4,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h:5,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.h:15,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp:3:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'2(4@47"Extra qualification 'Point::' on member 'Point'289079639#318#137#4(7@102"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp289079639#18446744073709551615#0#0(6@80"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp288399759#3#0#3#0#0"0(7@100"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.h289079639#18446744073709551615#0#0(6@78"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.h288399759#11#0#11#0#0"0(7@103"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h289079639#18446744073709551615#0#0(6@81"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Primitive.h288399759#6#0#6#0#0"0(13@128"Extra qualification 'Point::' on member 'Point' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h289079639#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(4@47"Extra qualification 'Color::' on member 'Color'289079639#879#137#5(7@102"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp289079639#18446744073709551615#0#0(6@80"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp288399759#3#0#3#0#0"0(7@100"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.h289079639#18446744073709551615#0#0(6@78"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.h288399759#15#0#15#0#0"0(7@103"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h289079639#18446744073709551615#0#0(6@81"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/HitRecord.h288399759#5#0#5#0#0"0(7@102"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h289079639#18446744073709551615#0#0(6@80"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Material.h288399759#4#0#4#0#0"0(13@128"Extra qualification 'Color::' on member 'Color' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h289079639#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(0#0#80"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp4300885448#2157"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Sphere.cpp -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Sphere.o1#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Timer.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Timer.cc normal i386 c++ com.apple.compilers.gcc.4_2
+s289079639.033249
+e289079639.420040
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Timer.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Timer.cc
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Timer.cc289079639#289079639#0(0"0(0#0#78"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Timer.cc4300885448#2154"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Timer.cc -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Timer.o0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289079636.712998
+e289079636.870712
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.m289079636#289079636#0(0"0(0#0#91"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.m4300885448#2170"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-aehkdndoovtzbccxrtmmxagzxldb/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.m -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledViewController.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289079636.858030
+e289079636.926158
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledViewController.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledViewController.m289079636#289079636#0(0"0(0#0#94"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledViewController.m4300885448#2176"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-aehkdndoovtzbccxrtmmxagzxldb/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/UntitledViewController.m -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledViewController.o0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289079636.711945
+e289079636.857921
+r1
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/main.m289079636#289079636#0(0"0(0#0#68"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/main.m4300885448#2132"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-aehkdndoovtzbccxrtmmxagzxldb/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/main.m -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/rt361.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc normal i386 c++ com.apple.compilers.gcc.4_2
+s289079638.293008
+e289079638.742112
+r0
+xCompileC
+xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/rt361.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.h:8,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc:12:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'
+oIn file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/creative06.h:8,
+o                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc:13:
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'
+lSLF07#2@86"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc289079638#289079638#0(695"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.h:8,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc:12:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h:31: error: extra qualification 'Color::' on member 'Color'In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/creative06.h:8,                 from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc:13:/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h:21: error: extra qualification 'Point::' on member 'Point'2(4@47"Extra qualification 'Color::' on member 'Color'289079638#208#137#3(7@100"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc289079638#18446744073709551615#0#0(6@78"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc288399759#12#0#12#0#0"0(7@99"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Image.h288399759#8#0#8#0#0"0(13@128"Extra qualification 'Color::' on member 'Color' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Color.h288399759#31#0#31#0#0"0(4@47"Extra qualification 'Point::' on member 'Point'289079638#558#137#3(7@100"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc289079638#18446744073709551615#0#0(6@78"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc288399759#13#0#13#0#0"0(7@104"In file included from /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/creative06.h289079638#18446744073709551615#0#0(6@82"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/creative06.h288399759#8#0#8#0#0"0(13@128"Extra qualification 'Point::' on member 'Point' in /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h289079638#18446744073709551615#0#0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(6@77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/Point.h288399759#21#0#21#0#0"0(0#0#78"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc4300885448#2154"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Classes/rt361.cc -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/rt361.o1#
+
+CCompileXIB /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/MainWindow.xib
+s289079634.966085
+e289079635.510641
+r1
+xCompileXIB
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib289079634#289079635#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#76"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/MainWindow.xib4300885448#552"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/MainWindow.nib /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/MainWindow.xib0#
+
+CCompileXIB /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/UntitledViewController.xib
+s289079634.978154
+e289079635.506543
+r1
+xCompileXIB
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/UntitledViewController.xib
+lSLF07#2@37"CompileXIB UntitledViewController.xib289079634#289079635#0(0"0(0#0#88"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/UntitledViewController.xib4300885448#576"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/UntitledViewController.nib /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/UntitledViewController.xib0#
+
+CGenerateDSYMFile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
+r0
+
+CLd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled normal i386
+r0
+
+CProcessInfoPlistFile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist Untitled-Info.plist
+s289079634.928197
+e289079634.965966
+r1
+xProcessInfoPlistFile
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist
+xUntitled-Info.plist
+lSLF07#2@27"Process Untitled-Info.plist289079634#289079634#0(0"0(0#0#81"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Untitled-Info.plist30681223440564324#551"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Untitled-Info.plist -genpkginfo /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist0#
+
+CProcessPCH /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-aehkdndoovtzbccxrtmmxagzxldb/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289079635.510866
+e289079636.711763
+r1
+xProcessPCH
+x/var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-aehkdndoovtzbccxrtmmxagzxldb/Untitled_Prefix.pch.gch
+xUntitled_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Untitled_Prefix.pch289079635#289079636#0(0"0(0#0#81"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Untitled_Prefix.pch4300885448#2000"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Untitled_Prefix.pch -o /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-aehkdndoovtzbccxrtmmxagzxldb/Untitled_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s289079635.511974
+e289079635.766106
+r1
+xProcessPCH++
+x/var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch.gch
+xUntitled_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Untitled_Prefix.pch289079635#289079635#0(0"0(0#0#81"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Untitled_Prefix.pch4300885448#2011"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/Untitled_Prefix.pch -o /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled_Prefix-ffkdpzjwrslyftfkzhaezkvfixcm/Untitled_Prefix.pch.gch0#
+
+CTouch /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/Untitled/build/Debug-iphonesimulator/Untitled.app
+r0
+

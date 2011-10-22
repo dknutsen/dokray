@@ -1,0 +1,339 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* simpledrawAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* simpledrawAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* simpledrawViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* simpledrawViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* simpledrawViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* simpledrawViewController.m */; };
+		36460C1F118A57D1006815CA /* samplescene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 36460C1E118A57D1006815CA /* samplescene.cpp */; };
+		3693CB2D1183761100023EB8 /* Background.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CB101183761100023EB8 /* Background.cpp */; };
+		3693CB2E1183761100023EB8 /* Camera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CB121183761100023EB8 /* Camera.cpp */; };
+		3693CB2F1183761100023EB8 /* Core.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CB151183761100023EB8 /* Core.cpp */; };
+		3693CB311183761100023EB8 /* Light.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CB1A1183761100023EB8 /* Light.cpp */; };
+		3693CB321183761100023EB8 /* Material.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CB1C1183761100023EB8 /* Material.cpp */; };
+		3693CB331183761100023EB8 /* Object.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CB1E1183761100023EB8 /* Object.cpp */; };
+		3693CB341183761100023EB8 /* Plane.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CB201183761100023EB8 /* Plane.cpp */; };
+		3693CB351183761100023EB8 /* Scene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CB261183761100023EB8 /* Scene.cpp */; };
+		3693CB361183761100023EB8 /* Sphere.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CB281183761100023EB8 /* Sphere.cpp */; };
+		36E546671183628E00D17A8B /* simpleview.mm in Sources */ = {isa = PBXBuildFile; fileRef = 36E546661183628E00D17A8B /* simpleview.mm */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* simpledrawAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = simpledrawAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* simpledrawAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = simpledrawAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* simpledraw.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = simpledraw.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* simpledrawViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = simpledrawViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* simpledrawViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = simpledrawViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* simpledrawViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = simpledrawViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* simpledraw_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = simpledraw_Prefix.pch; sourceTree = "<group>"; };
+		36460C1D118A57D1006815CA /* samplescene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = samplescene.h; sourceTree = "<group>"; };
+		36460C1E118A57D1006815CA /* samplescene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = samplescene.cpp; sourceTree = "<group>"; };
+		3693CB101183761100023EB8 /* Background.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Background.cpp; path = ../../../RTC/Code/Background.cpp; sourceTree = SOURCE_ROOT; };
+		3693CB111183761100023EB8 /* Background.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Background.h; path = ../../../RTC/Code/Background.h; sourceTree = SOURCE_ROOT; };
+		3693CB121183761100023EB8 /* Camera.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Camera.cpp; path = ../../../RTC/Code/Camera.cpp; sourceTree = SOURCE_ROOT; };
+		3693CB131183761100023EB8 /* Camera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Camera.h; path = ../../../RTC/Code/Camera.h; sourceTree = SOURCE_ROOT; };
+		3693CB141183761100023EB8 /* Color.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Color.h; path = ../../../RTC/Code/Color.h; sourceTree = SOURCE_ROOT; };
+		3693CB151183761100023EB8 /* Core.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Core.cpp; path = ../../../RTC/Code/Core.cpp; sourceTree = SOURCE_ROOT; };
+		3693CB161183761100023EB8 /* Core.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Core.h; path = ../../../RTC/Code/Core.h; sourceTree = SOURCE_ROOT; };
+		3693CB171183761100023EB8 /* HitRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HitRecord.h; path = ../../../RTC/Code/HitRecord.h; sourceTree = SOURCE_ROOT; };
+		3693CB1A1183761100023EB8 /* Light.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Light.cpp; path = ../../../RTC/Code/Light.cpp; sourceTree = SOURCE_ROOT; };
+		3693CB1B1183761100023EB8 /* Light.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Light.h; path = ../../../RTC/Code/Light.h; sourceTree = SOURCE_ROOT; };
+		3693CB1C1183761100023EB8 /* Material.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Material.cpp; path = ../../../RTC/Code/Material.cpp; sourceTree = SOURCE_ROOT; };
+		3693CB1D1183761100023EB8 /* Material.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Material.h; path = ../../../RTC/Code/Material.h; sourceTree = SOURCE_ROOT; };
+		3693CB1E1183761100023EB8 /* Object.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Object.cpp; path = ../../../RTC/Code/Object.cpp; sourceTree = SOURCE_ROOT; };
+		3693CB1F1183761100023EB8 /* Object.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Object.h; path = ../../../RTC/Code/Object.h; sourceTree = SOURCE_ROOT; };
+		3693CB201183761100023EB8 /* Plane.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Plane.cpp; path = ../../../RTC/Code/Plane.cpp; sourceTree = SOURCE_ROOT; };
+		3693CB211183761100023EB8 /* Plane.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Plane.h; path = ../../../RTC/Code/Plane.h; sourceTree = SOURCE_ROOT; };
+		3693CB221183761100023EB8 /* Point.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Point.h; path = ../../../RTC/Code/Point.h; sourceTree = SOURCE_ROOT; };
+		3693CB231183761100023EB8 /* Primitive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Primitive.h; path = ../../../RTC/Code/Primitive.h; sourceTree = SOURCE_ROOT; };
+		3693CB241183761100023EB8 /* Ray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ray.h; path = ../../../RTC/Code/Ray.h; sourceTree = SOURCE_ROOT; };
+		3693CB251183761100023EB8 /* RenderContext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RenderContext.h; path = ../../../RTC/Code/RenderContext.h; sourceTree = SOURCE_ROOT; };
+		3693CB261183761100023EB8 /* Scene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Scene.cpp; path = ../../../RTC/Code/Scene.cpp; sourceTree = SOURCE_ROOT; };
+		3693CB271183761100023EB8 /* Scene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Scene.h; path = ../../../RTC/Code/Scene.h; sourceTree = SOURCE_ROOT; };
+		3693CB281183761100023EB8 /* Sphere.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Sphere.cpp; path = ../../../RTC/Code/Sphere.cpp; sourceTree = SOURCE_ROOT; };
+		3693CB291183761100023EB8 /* Sphere.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Sphere.h; path = ../../../RTC/Code/Sphere.h; sourceTree = SOURCE_ROOT; };
+		3693CB2C1183761100023EB8 /* Vector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Vector.h; path = ../../../RTC/Code/Vector.h; sourceTree = SOURCE_ROOT; };
+		36E546651183628E00D17A8B /* simpleview.hh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = simpleview.hh; path = ../simpleview.hh; sourceTree = "<group>"; };
+		36E546661183628E00D17A8B /* simpleview.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = simpleview.mm; path = ../simpleview.mm; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* simpledraw-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "simpledraw-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				36E546651183628E00D17A8B /* simpleview.hh */,
+				36E546661183628E00D17A8B /* simpleview.mm */,
+				1D3623240D0F684500981E51 /* simpledrawAppDelegate.h */,
+				1D3623250D0F684500981E51 /* simpledrawAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* simpledrawViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* simpledrawViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* simpledraw.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				3693CB101183761100023EB8 /* Background.cpp */,
+				3693CB111183761100023EB8 /* Background.h */,
+				3693CB121183761100023EB8 /* Camera.cpp */,
+				3693CB131183761100023EB8 /* Camera.h */,
+				3693CB141183761100023EB8 /* Color.h */,
+				3693CB151183761100023EB8 /* Core.cpp */,
+				3693CB161183761100023EB8 /* Core.h */,
+				3693CB171183761100023EB8 /* HitRecord.h */,
+				3693CB1A1183761100023EB8 /* Light.cpp */,
+				3693CB1B1183761100023EB8 /* Light.h */,
+				3693CB1C1183761100023EB8 /* Material.cpp */,
+				3693CB1D1183761100023EB8 /* Material.h */,
+				3693CB1E1183761100023EB8 /* Object.cpp */,
+				3693CB1F1183761100023EB8 /* Object.h */,
+				3693CB201183761100023EB8 /* Plane.cpp */,
+				3693CB211183761100023EB8 /* Plane.h */,
+				3693CB221183761100023EB8 /* Point.h */,
+				3693CB231183761100023EB8 /* Primitive.h */,
+				3693CB241183761100023EB8 /* Ray.h */,
+				3693CB251183761100023EB8 /* RenderContext.h */,
+				3693CB261183761100023EB8 /* Scene.cpp */,
+				3693CB271183761100023EB8 /* Scene.h */,
+				3693CB281183761100023EB8 /* Sphere.cpp */,
+				3693CB291183761100023EB8 /* Sphere.h */,
+				3693CB2C1183761100023EB8 /* Vector.h */,
+				32CA4F630368D1EE00C91783 /* simpledraw_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+				36460C1D118A57D1006815CA /* samplescene.h */,
+				36460C1E118A57D1006815CA /* samplescene.cpp */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2899E5210DE3E06400AC0155 /* simpledrawViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* simpledraw-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* simpledraw */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "simpledraw" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = simpledraw;
+			productName = simpledraw;
+			productReference = 1D6058910D05DD3D006BFB54 /* simpledraw.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "simpledraw" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* simpledraw */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* simpledrawViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* simpledrawAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* simpledrawViewController.m in Sources */,
+				36E546671183628E00D17A8B /* simpleview.mm in Sources */,
+				3693CB2D1183761100023EB8 /* Background.cpp in Sources */,
+				3693CB2E1183761100023EB8 /* Camera.cpp in Sources */,
+				3693CB2F1183761100023EB8 /* Core.cpp in Sources */,
+				3693CB311183761100023EB8 /* Light.cpp in Sources */,
+				3693CB321183761100023EB8 /* Material.cpp in Sources */,
+				3693CB331183761100023EB8 /* Object.cpp in Sources */,
+				3693CB341183761100023EB8 /* Plane.cpp in Sources */,
+				3693CB351183761100023EB8 /* Scene.cpp in Sources */,
+				3693CB361183761100023EB8 /* Sphere.cpp in Sources */,
+				36460C1F118A57D1006815CA /* samplescene.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = simpledraw_Prefix.pch;
+				INFOPLIST_FILE = "simpledraw-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../RTC/iPhone_RTC/build/Debug-iphonesimulator\"",
+				);
+				PRODUCT_NAME = simpledraw;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = simpledraw_Prefix.pch;
+				INFOPLIST_FILE = "simpledraw-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../RTC/iPhone_RTC/build/Debug-iphonesimulator\"",
+				);
+				PRODUCT_NAME = simpledraw;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "simpledraw" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "simpledraw" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

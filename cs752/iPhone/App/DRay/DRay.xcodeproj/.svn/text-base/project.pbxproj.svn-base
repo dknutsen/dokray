@@ -1,0 +1,351 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* DRayAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* DRayAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		36E8D7D3118C8C47005BE280 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8D7D1118C8C47005BE280 /* HomeViewController.m */; };
+		36E8D7D4118C8C47005BE280 /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36E8D7D2118C8C47005BE280 /* HomeViewController.xib */; };
+		36E8D81B118C99AF005BE280 /* ClientViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8D819118C99AF005BE280 /* ClientViewController.m */; };
+		36E8D81C118C99AF005BE280 /* ClientViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36E8D81A118C99AF005BE280 /* ClientViewController.xib */; };
+		36E8D820118C99C0005BE280 /* ServerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8D81E118C99C0005BE280 /* ServerViewController.m */; };
+		36E8D821118C99C0005BE280 /* ServerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 36E8D81F118C99C0005BE280 /* ServerViewController.xib */; };
+		36E8D8A6118CA5DC005BE280 /* AppConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8D8A5118CA5DC005BE280 /* AppConfig.m */; };
+		36E8D930118CD5C2005BE280 /* UITextView+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8D92F118CD5C2005BE280 /* UITextView+Utils.m */; };
+		36E8D9B3118CE670005BE280 /* ServerBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8D9B2118CE670005BE280 /* ServerBrowser.m */; };
+		36E8D9FF118D0383005BE280 /* Connection.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8D9FD118D0383005BE280 /* Connection.m */; };
+		36E8DAC6118D3412005BE280 /* RemoteConnect.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8DAC1118D3412005BE280 /* RemoteConnect.m */; };
+		36E8DAC7118D3412005BE280 /* Room.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8DAC3118D3412005BE280 /* Room.m */; };
+		36E8DBFE118D5454005BE280 /* LocalRoom.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8DBFB118D5454005BE280 /* LocalRoom.m */; };
+		36E8DBFF118D5454005BE280 /* Server.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E8DBFD118D5454005BE280 /* Server.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* DRayAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DRayAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* DRayAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DRayAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* DRay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DRay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* DRay_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DRay_Prefix.pch; sourceTree = "<group>"; };
+		36E8D7D0118C8C47005BE280 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HomeViewController.h; path = ../HomeViewController.h; sourceTree = "<group>"; };
+		36E8D7D1118C8C47005BE280 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HomeViewController.m; path = ../HomeViewController.m; sourceTree = "<group>"; };
+		36E8D7D2118C8C47005BE280 /* HomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		36E8D818118C99AF005BE280 /* ClientViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClientViewController.h; sourceTree = "<group>"; };
+		36E8D819118C99AF005BE280 /* ClientViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClientViewController.m; sourceTree = "<group>"; };
+		36E8D81A118C99AF005BE280 /* ClientViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ClientViewController.xib; path = Classes/ClientViewController.xib; sourceTree = "<group>"; };
+		36E8D81D118C99C0005BE280 /* ServerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServerViewController.h; sourceTree = "<group>"; };
+		36E8D81E118C99C0005BE280 /* ServerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ServerViewController.m; sourceTree = "<group>"; };
+		36E8D81F118C99C0005BE280 /* ServerViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = ServerViewController.xib; path = Classes/ServerViewController.xib; sourceTree = "<group>"; };
+		36E8D8A4118CA5DC005BE280 /* AppConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppConfig.h; sourceTree = "<group>"; };
+		36E8D8A5118CA5DC005BE280 /* AppConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppConfig.m; sourceTree = "<group>"; };
+		36E8D92E118CD5C2005BE280 /* UITextView+Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextView+Utils.h"; sourceTree = "<group>"; };
+		36E8D92F118CD5C2005BE280 /* UITextView+Utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextView+Utils.m"; sourceTree = "<group>"; };
+		36E8D9B1118CE670005BE280 /* ServerBrowser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServerBrowser.h; sourceTree = "<group>"; };
+		36E8D9B2118CE670005BE280 /* ServerBrowser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ServerBrowser.m; sourceTree = "<group>"; };
+		36E8D9B4118CE6DD005BE280 /* ServerBrowserDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServerBrowserDelegate.h; sourceTree = "<group>"; };
+		36E8D9FC118D0383005BE280 /* Connection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Connection.h; sourceTree = "<group>"; };
+		36E8D9FD118D0383005BE280 /* Connection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Connection.m; sourceTree = "<group>"; };
+		36E8D9FE118D0383005BE280 /* ConnectionDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConnectionDelegate.h; sourceTree = "<group>"; };
+		36E8DAC0118D3412005BE280 /* RemoteConnect.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RemoteConnect.h; sourceTree = "<group>"; };
+		36E8DAC1118D3412005BE280 /* RemoteConnect.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RemoteConnect.m; sourceTree = "<group>"; };
+		36E8DAC2118D3412005BE280 /* Room.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Room.h; sourceTree = "<group>"; };
+		36E8DAC3118D3412005BE280 /* Room.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Room.m; sourceTree = "<group>"; };
+		36E8DAC4118D3412005BE280 /* RoomDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RoomDelegate.h; sourceTree = "<group>"; };
+		36E8DBFA118D5454005BE280 /* LocalRoom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocalRoom.h; sourceTree = "<group>"; };
+		36E8DBFB118D5454005BE280 /* LocalRoom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocalRoom.m; sourceTree = "<group>"; };
+		36E8DBFC118D5454005BE280 /* Server.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Server.h; sourceTree = "<group>"; };
+		36E8DBFD118D5454005BE280 /* Server.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Server.m; sourceTree = "<group>"; };
+		36E8DC1C118D57BA005BE280 /* ServerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServerDelegate.h; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* DRay-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "DRay-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				36E8D9AF118CE660005BE280 /* Networking */,
+				36E8D7DF118C90DE005BE280 /* UI */,
+				36E8D8A3118CA5C2005BE280 /* Misc */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* DRay.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* DRay_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				36E8D7D2118C8C47005BE280 /* HomeViewController.xib */,
+				36E8D81A118C99AF005BE280 /* ClientViewController.xib */,
+				36E8D81F118C99C0005BE280 /* ServerViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* DRay-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		36E8D7DF118C90DE005BE280 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				36E8D7D0118C8C47005BE280 /* HomeViewController.h */,
+				36E8D7D1118C8C47005BE280 /* HomeViewController.m */,
+				1D3623240D0F684500981E51 /* DRayAppDelegate.h */,
+				1D3623250D0F684500981E51 /* DRayAppDelegate.m */,
+				36E8D818118C99AF005BE280 /* ClientViewController.h */,
+				36E8D819118C99AF005BE280 /* ClientViewController.m */,
+				36E8D81D118C99C0005BE280 /* ServerViewController.h */,
+				36E8D81E118C99C0005BE280 /* ServerViewController.m */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		36E8D8A3118CA5C2005BE280 /* Misc */ = {
+			isa = PBXGroup;
+			children = (
+				36E8D92E118CD5C2005BE280 /* UITextView+Utils.h */,
+				36E8D92F118CD5C2005BE280 /* UITextView+Utils.m */,
+				36E8D8A4118CA5DC005BE280 /* AppConfig.h */,
+				36E8D8A5118CA5DC005BE280 /* AppConfig.m */,
+			);
+			name = Misc;
+			sourceTree = "<group>";
+		};
+		36E8D9AF118CE660005BE280 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				36E8DC1C118D57BA005BE280 /* ServerDelegate.h */,
+				36E8DBFA118D5454005BE280 /* LocalRoom.h */,
+				36E8DBFB118D5454005BE280 /* LocalRoom.m */,
+				36E8DBFC118D5454005BE280 /* Server.h */,
+				36E8DBFD118D5454005BE280 /* Server.m */,
+				36E8DAC0118D3412005BE280 /* RemoteConnect.h */,
+				36E8DAC1118D3412005BE280 /* RemoteConnect.m */,
+				36E8DAC2118D3412005BE280 /* Room.h */,
+				36E8DAC3118D3412005BE280 /* Room.m */,
+				36E8DAC4118D3412005BE280 /* RoomDelegate.h */,
+				36E8D9FC118D0383005BE280 /* Connection.h */,
+				36E8D9FD118D0383005BE280 /* Connection.m */,
+				36E8D9FE118D0383005BE280 /* ConnectionDelegate.h */,
+				36E8D9B4118CE6DD005BE280 /* ServerBrowserDelegate.h */,
+				36E8D9B1118CE670005BE280 /* ServerBrowser.h */,
+				36E8D9B2118CE670005BE280 /* ServerBrowser.m */,
+			);
+			name = Networking;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* DRay */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "DRay" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DRay;
+			productName = DRay;
+			productReference = 1D6058910D05DD3D006BFB54 /* DRay.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "DRay" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* DRay */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				36E8D7D4118C8C47005BE280 /* HomeViewController.xib in Resources */,
+				36E8D81C118C99AF005BE280 /* ClientViewController.xib in Resources */,
+				36E8D821118C99C0005BE280 /* ServerViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* DRayAppDelegate.m in Sources */,
+				36E8D7D3118C8C47005BE280 /* HomeViewController.m in Sources */,
+				36E8D81B118C99AF005BE280 /* ClientViewController.m in Sources */,
+				36E8D820118C99C0005BE280 /* ServerViewController.m in Sources */,
+				36E8D8A6118CA5DC005BE280 /* AppConfig.m in Sources */,
+				36E8D930118CD5C2005BE280 /* UITextView+Utils.m in Sources */,
+				36E8D9B3118CE670005BE280 /* ServerBrowser.m in Sources */,
+				36E8D9FF118D0383005BE280 /* Connection.m in Sources */,
+				36E8DAC6118D3412005BE280 /* RemoteConnect.m in Sources */,
+				36E8DAC7118D3412005BE280 /* Room.m in Sources */,
+				36E8DBFE118D5454005BE280 /* LocalRoom.m in Sources */,
+				36E8DBFF118D5454005BE280 /* Server.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = DRay_Prefix.pch;
+				INFOPLIST_FILE = "DRay-Info.plist";
+				PRODUCT_NAME = DRay;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = DRay_Prefix.pch;
+				INFOPLIST_FILE = "DRay-Info.plist";
+				PRODUCT_NAME = DRay;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "DRay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "DRay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

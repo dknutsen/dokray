@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes
+END
+Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Point.h
+END
+UntitledViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/UntitledViewController.m
+END
+Material.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Material.h
+END
+Plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Plane.h
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Object.cpp
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Vector.h
+END
+Light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Light.cpp
+END
+creative06.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/creative06.h
+END
+Background.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Background.cpp
+END
+rt361.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/rt361.cc
+END
+Color.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Color.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Timer.h
+END
+Image.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Image.cc
+END
+HitRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/HitRecord.h
+END
+UntitledAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.h
+END
+RenderContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/RenderContext.h
+END
+Sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Sphere.h
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Camera.h
+END
+UntitledAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/UntitledAppDelegate.m
+END
+Material.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Material.cpp
+END
+Plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Plane.cpp
+END
+Ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Ray.h
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Scene.h
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Object.h
+END
+Light.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Light.h
+END
+Primitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Primitive.h
+END
+Timer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Timer.cc
+END
+Background.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Background.h
+END
+Sphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Sphere.cpp
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Image.h
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Camera.cpp
+END
+UntitledViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/UntitledViewController.h
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cs752/!svn/ver/4/iPhone/firstapp/Untitled/Classes/Scene.cpp
+END

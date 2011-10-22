@@ -1,0 +1,537 @@
+TiPhone_RTC
+v7
+r0
+t290054095.727658
+cCheck dependencies
+cProcessPCH++ /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch.gch iPhone_RTC_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Background.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Background.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Camera.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Camera.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Image.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Image.cc normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Light.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Light.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Material.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Material.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Object.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Object.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Plane.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Plane.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/rt361.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/rt361.cc normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Scene.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Scene.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Sphere.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Sphere.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Timer.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Timer.cc normal i386 c++ com.apple.compilers.gcc.4_2
+cLibtool /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/libiPhone_RTC.a normal i386
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B18589500000000000000EE
+t1259886741
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/mach/mach.h
+c00000000476340E90000000000001057
+t1197687017
+s4183
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/mach/mach_time.h
+c000000004763449D0000000000000746
+t1197687965
+s1862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/sys/time.h
+c00000000476344C00000000000001E18
+t1197688000
+s7704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/time.h
+c000000004748A133000000000000178E
+t1195942195
+s6030
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/ppc_intrinsics.h
+c000000004748AF950000000000007B40
+t1195945877
+s31552
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Background.h
+c000000004B806A0F00000000000001DB
+t1266706959
+s475
+i"RenderContext.h"
+i"Ray.h"
+i"Color.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Camera.h
+c000000004B8AD5170000000000000414
+t1267389719
+s1044
+i"Vector.h"
+i"Point.h"
+i"Ray.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Color.h
+c000000004B8ACA840000000000000812
+t1267387012
+s2066
+i"Vector.h"
+i<iostream>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/HitRecord.h
+c000000004B806A0F00000000000002C6
+t1266706959
+s710
+i"Primitive.h"
+i"Material.h"
+i<limits>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Image.h
+c000000004B8AD3780000000000000590
+t1267389304
+s1424
+i<string>
+i"Color.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Light.h
+c000000004B8AD5450000000000000331
+t1267389765
+s817
+i"Color.h"
+i"Vector.h"
+i"RenderContext.h"
+i"Point.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Material.h
+c000000004B806A0F0000000000000384
+t1266706959
+s900
+i"Color.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Object.h
+c000000004B806A0F0000000000000210
+t1266706959
+s528
+i<vector>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Plane.h
+c000000004B8AD5EE00000000000001DE
+t1267389934
+s478
+i"Primitive.h"
+i"Vector.h"
+i"Point.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Point.h
+c000000004B8AD41800000000000005AE
+t1267389464
+s1454
+i"Vector.h"
+i<iostream>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Primitive.h
+c000000004B8AD4D700000000000001BC
+t1267389655
+s444
+i"Object.h"
+i"Vector.h"
+i"Point.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Ray.h
+c000000004B8AD44C00000000000002EB
+t1267389516
+s747
+i"Vector.h"
+i"Point.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/RenderContext.h
+c000000004B806A0F00000000000000F1
+t1266706959
+s241
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Scene.h
+c000000004B806A0F0000000000000377
+t1266706959
+s887
+i"Color.h"
+i<vector>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Sphere.h
+c000000004B8AD4B200000000000002D0
+t1267389618
+s720
+i"Primitive.h"
+i"Vector.h"
+i"Point.h"
+i"Ray.h"
+i"HitRecord.h"
+i"RenderContext.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Timer.h
+c000000004B806A0F0000000000001066
+t1266706959
+s4198
+i<ppc_intrinsics.h>
+i<mach/mach.h>
+i<mach/mach_time.h>
+i<time.h>
+i<sys/time.h>
+i<algorithm>
+i<iosfwd>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/Vector.h
+c000000004B806A0F0000000000000984
+t1266706959
+s2436
+i<math.h>
+i<iostream>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/Code/creative06.h
+c000000004B8B0B2D00000000000009FA
+t1267403565
+s2554
+i"Point.h"
+i"Vector.h"
+i"Scene.h"
+i"Object.h"
+i"Sphere.h"
+i"Plane.h"
+i"Background.h"
+i"Light.h"
+i"Camera.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Background.cpp
+c000000004B806A0F00000000000000F6
+t1266706959
+s246
+i"Background.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Camera.cpp
+c000000004B8AD57400000000000002D2
+t1267389812
+s722
+i"Camera.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Image.cc
+c000000004B806A0F0000000000000EE1
+t1266706959
+s3809
+i<cmath>
+i<fstream>
+i<iostream>
+i"Image.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Light.cpp
+c000000004B8AD5960000000000000293
+t1267389846
+s659
+i"Light.h"
+i<limits>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Material.cpp
+c000000004B8AD5C90000000000000AC7
+t1267389897
+s2759
+i"Material.h"
+i"HitRecord.h"
+i"Scene.h"
+i"Primitive.h"
+i"Ray.h"
+i"RenderContext.h"
+i"Light.h"
+i"Camera.h"
+i<math.h>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Object.cpp
+c000000004B806A0F0000000000000170
+t1266706959
+s368
+i"Object.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Plane.cpp
+c000000004B8AD61100000000000003FE
+t1267389969
+s1022
+i"Plane.h"
+i"Ray.h"
+i"HitRecord.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Scene.cpp
+c000000004B806A0F0000000000000743
+t1266706959
+s1859
+i"Scene.h"
+i"Background.h"
+i"Camera.h"
+i"Object.h"
+i"Image.h"
+i"Light.h"
+i"Material.h"
+i"HitRecord.h"
+i"RenderContext.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Sphere.cpp
+c000000004B8AD6300000000000000695
+t1267390000
+s1685
+i"Sphere.h"
+i<iostream>
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Timer.cc
+c000000004B806A0F000000000000030A
+t1266706959
+s778
+i<iomanip>
+i<iostream>
+i"Timer.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/rt361.cc
+c000000004B806A0F000000000000030E
+t1266706959
+s782
+i<iostream>
+i"Timer.h"
+i"Image.h"
+i"creative06.h"
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/libiPhone_RTC.a
+t1268361295
+s1022256
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Background.o
+t1268361293
+s76400
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Camera.o
+t1268361293
+s85176
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Image.o
+t1268361293
+s90156
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Light.o
+t1268361293
+s85728
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Material.o
+t1268361294
+s109492
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Object.o
+t1268361294
+s59636
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Plane.o
+t1268361294
+s88448
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Scene.o
+t1268361295
+s132576
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Sphere.o
+t1268361295
+s90920
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Timer.o
+t1268361295
+s75000
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/iPhone_RTC.LinkFileList
+c000000004B99A84C0000000000000625
+t1268361292
+s1573
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/rt361.o
+t1268361294
+s109060
+
+N/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/iPhone_RTC_Prefix.pch
+c000000004B999A7000000000000000BC
+t1268357744
+s188
+i<Foundation/Foundation.h>
+
+N/var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch.gch
+t1268361292
+s2519408
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290054092#290054092#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Background.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Background.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s290054093.025908
+e290054093.499151
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Background.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Background.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Background.cpp290054093#290054093#0(0"0(0#0#74"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Background.cpp4300885448#2066"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Background.cpp -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Background.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Camera.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Camera.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s290054093.026903
+e290054093.521323
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Camera.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Camera.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Camera.cpp290054093#290054093#0(0"0(0#0#70"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Camera.cpp4300885448#2058"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Camera.cpp -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Camera.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Image.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Image.cc normal i386 c++ com.apple.compilers.gcc.4_2
+s290054093.499252
+e290054093.980695
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Image.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Image.cc
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Image.cc290054093#290054093#0(0"0(0#0#68"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Image.cc4300885448#2055"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Image.cc -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Image.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Light.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Light.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s290054093.521467
+e290054093.935447
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Light.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Light.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Light.cpp290054093#290054093#0(0"0(0#0#69"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Light.cpp4300885448#2056"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Light.cpp -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Light.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Material.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Material.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s290054093.935557
+e290054094.460685
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Material.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Material.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Material.cpp290054093#290054094#0(0"0(0#0#72"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Material.cpp4300885448#2062"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Material.cpp -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Material.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Object.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Object.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s290054093.980803
+e290054094.197589
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Object.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Object.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Object.cpp290054093#290054094#0(0"0(0#0#70"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Object.cpp4300885448#2058"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Object.cpp -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Object.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Plane.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Plane.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s290054094.197717
+e290054094.660840
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Plane.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Plane.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Plane.cpp290054094#290054094#0(0"0(0#0#69"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Plane.cpp4300885448#2056"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Plane.cpp -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Plane.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Scene.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Scene.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s290054094.660952
+e290054095.193630
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Scene.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Scene.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Scene.cpp290054094#290054095#0(0"0(0#0#69"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Scene.cpp4300885448#2056"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Scene.cpp -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Scene.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Sphere.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Sphere.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s290054094.976162
+e290054095.500709
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Sphere.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Sphere.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Sphere.cpp290054094#290054095#0(0"0(0#0#70"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Sphere.cpp4300885448#2058"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Sphere.cpp -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Sphere.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Timer.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Timer.cc normal i386 c++ com.apple.compilers.gcc.4_2
+s290054095.193742
+e290054095.663781
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Timer.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Timer.cc
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Timer.cc290054095#290054095#0(0"0(0#0#68"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Timer.cc4300885448#2055"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/Timer.cc -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/Timer.o0#
+
+CCompileC build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/rt361.o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/rt361.cc normal i386 c++ com.apple.compilers.gcc.4_2
+s290054094.460881
+e290054094.976055
+r1
+xCompileC
+xbuild/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/rt361.o
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/rt361.cc
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/rt361.cc290054094#290054094#0(0"0(0#0#68"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/rt361.cc4300885448#2055"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/../Code/rt361.cc -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/rt361.o0#
+
+CLibtool /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/libiPhone_RTC.a normal i386
+s290054095.663904
+e290054095.727586
+r1
+xLibtool
+x/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/libiPhone_RTC.a
+xnormal
+xi386
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@63"Libtool build/Debug-iphonesimulator/libiPhone_RTC.a normal i386290054095#290054095#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"4300885448#806"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -filelist /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/Objects-normal/i386/iPhone_RTC.LinkFileList -ObjC -framework Foundation -o /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/libiPhone_RTC.a0#
+
+CProcessPCH++ /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch.gch iPhone_RTC_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
+s290054092.849661
+e290054093.025785
+r1
+xProcessPCH++
+x/var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch.gch
+xiPhone_RTC_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile iPhone_RTC_Prefix.pch290054092#290054093#0(0"0(0#0#73"/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/iPhone_RTC_Prefix.pch3419202321905706496#1920"    cd /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/iPhone_RTC-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/build/iPhone_RTC.build/Debug-iphonesimulator/iPhone_RTC.build/DerivedSources -c /Users/dokbeast/Documents/Code/CS752/RTC/iPhone_RTC/iPhone_RTC_Prefix.pch -o /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhone_RTC_Prefix-cffglpzvdxdwxpfzgmlnspuipfni/iPhone_RTC_Prefix.pch.gch0#
+

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/cs752/!svn/ver/8/RTC/Code
+END
+Material.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/cs752/!svn/ver/8/RTC/Code/Material.cpp
+END
+Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/cs752/!svn/ver/8/RTC/Code/Point.h
+END
+Plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/cs752/!svn/ver/8/RTC/Code/Plane.cpp
+END
+Ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/cs752/!svn/ver/8/RTC/Code/Ray.h
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/cs752/!svn/ver/8/RTC/Code/Scene.h
+END
+Material.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/cs752/!svn/ver/8/RTC/Code/Material.h
+END
+Plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/cs752/!svn/ver/8/RTC/Code/Plane.h
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/cs752/!svn/ver/8/RTC/Code/Object.cpp
+END
+Light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/cs752/!svn/ver/8/RTC/Code/Light.cpp
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/cs752/!svn/ver/8/RTC/Code/Vector.h
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/cs752/!svn/ver/8/RTC/Code/Object.h
+END
+Light.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/cs752/!svn/ver/8/RTC/Code/Light.h
+END
+Primitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/cs752/!svn/ver/8/RTC/Code/Primitive.h
+END
+Background.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/cs752/!svn/ver/8/RTC/Code/Background.cpp
+END
+Timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/cs752/!svn/ver/8/RTC/Code/Timer.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/cs752/!svn/ver/8/RTC/Code/Image.cpp
+END
+Color.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/cs752/!svn/ver/8/RTC/Code/Color.h
+END
+Background.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/cs752/!svn/ver/8/RTC/Code/Background.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/cs752/!svn/ver/8/RTC/Code/Timer.h
+END
+Sphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/cs752/!svn/ver/8/RTC/Code/Sphere.cpp
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/cs752/!svn/ver/8/RTC/Code/Image.h
+END
+HitRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/cs752/!svn/ver/8/RTC/Code/HitRecord.h
+END
+Core.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/cs752/!svn/ver/8/RTC/Code/Core.cpp
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/cs752/!svn/ver/8/RTC/Code/Camera.cpp
+END
+RenderContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/cs752/!svn/ver/8/RTC/Code/RenderContext.h
+END
+Sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/cs752/!svn/ver/8/RTC/Code/Sphere.h
+END
+Core.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/cs752/!svn/ver/8/RTC/Code/Core.h
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/cs752/!svn/ver/8/RTC/Code/Camera.h
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/cs752/!svn/ver/8/RTC/Code/Scene.cpp
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw/main.m
+END
+samplescene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw/samplescene.cpp
+END
+simpleview.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw/simpleview.hh
+END
+samplescene.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw/samplescene.h
+END
+simpledrawViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw/simpledrawViewController.xib
+END
+simpledraw-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw/simpledraw-Info.plist
+END
+simpleview.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw/simpleview.mm
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw/MainWindow.xib
+END
+simpledraw_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cs752/!svn/ver/9/iPhone/firstapp/simpledraw/simpledraw_Prefix.pch
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 48
+*.suo
+*.user
+Debug
+PC_RTC.ncb
+Release
+image.bmp
+
+END

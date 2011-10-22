@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/cs752/!svn/ver/2/Original/Raytracer
+END
+Material.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/cs752/!svn/ver/1/Original/Raytracer/Material.cpp
+END
+Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs752/!svn/ver/1/Original/Raytracer/Point.h
+END
+Plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/cs752/!svn/ver/1/Original/Raytracer/Plane.cpp
+END
+Ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/cs752/!svn/ver/1/Original/Raytracer/Ray.h
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs752/!svn/ver/1/Original/Raytracer/Scene.h
+END
+Material.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/cs752/!svn/ver/1/Original/Raytracer/Material.h
+END
+Plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs752/!svn/ver/1/Original/Raytracer/Plane.h
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/cs752/!svn/ver/1/Original/Raytracer/Object.cpp
+END
+Light.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/cs752/!svn/ver/1/Original/Raytracer/Light.cpp
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/cs752/!svn/ver/1/Original/Raytracer/Vector.h
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/cs752/!svn/ver/1/Original/Raytracer/Object.h
+END
+Light.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs752/!svn/ver/1/Original/Raytracer/Light.h
+END
+Primitive.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/cs752/!svn/ver/1/Original/Raytracer/Primitive.h
+END
+Raytracer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/cs752/!svn/ver/2/Original/Raytracer/Raytracer.vcproj
+END
+creative06.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/cs752/!svn/ver/1/Original/Raytracer/creative06.h
+END
+Background.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/cs752/!svn/ver/1/Original/Raytracer/Background.cpp
+END
+rt361.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/cs752/!svn/ver/1/Original/Raytracer/rt361.cc
+END
+Color.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs752/!svn/ver/1/Original/Raytracer/Color.h
+END
+Timer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/cs752/!svn/ver/1/Original/Raytracer/Timer.cc
+END
+Background.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/cs752/!svn/ver/1/Original/Raytracer/Background.h
+END
+Image.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/cs752/!svn/ver/1/Original/Raytracer/Image.cc
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs752/!svn/ver/1/Original/Raytracer/Timer.h
+END
+Sphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/cs752/!svn/ver/1/Original/Raytracer/Sphere.cpp
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/cs752/!svn/ver/1/Original/Raytracer/Image.h
+END
+HitRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/cs752/!svn/ver/1/Original/Raytracer/HitRecord.h
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/cs752/!svn/ver/1/Original/Raytracer/Camera.cpp
+END
+RenderContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/cs752/!svn/ver/1/Original/Raytracer/RenderContext.h
+END
+Sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/cs752/!svn/ver/1/Original/Raytracer/Sphere.h
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/cs752/!svn/ver/1/Original/Raytracer/Camera.h
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/cs752/!svn/ver/1/Original/Raytracer/Scene.cpp
+END

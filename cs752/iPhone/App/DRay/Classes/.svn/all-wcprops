@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes
+END
+ConnectionDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/ConnectionDelegate.h
+END
+DRayAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/DRayAppDelegate.h
+END
+LocalRoom.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/LocalRoom.m
+END
+Connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/Connection.h
+END
+DRayAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/DRayAppDelegate.m
+END
+ServerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/ServerViewController.xib
+END
+ServerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/ServerDelegate.h
+END
+Connection.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/Connection.m
+END
+RemoteConnect.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/RemoteConnect.h
+END
+ServerBrowserDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/ServerBrowserDelegate.h
+END
+ServerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/ServerViewController.h
+END
+AppConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/AppConfig.h
+END
+Server.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/Server.h
+END
+RoomDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/RoomDelegate.h
+END
+ClientViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/ClientViewController.xib
+END
+UITextView+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/UITextView+Utils.h
+END
+RemoteConnect.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/RemoteConnect.m
+END
+ServerBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/ServerBrowser.h
+END
+ServerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/ServerViewController.m
+END
+AppConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/AppConfig.m
+END
+Server.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/Server.m
+END
+Room.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/Room.h
+END
+ClientViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/ClientViewController.h
+END
+UITextView+Utils.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/UITextView+Utils.m
+END
+ServerBrowser.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/12/iPhone/App/DRay/Classes/ServerBrowser.m
+END
+Room.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/Room.m
+END
+ClientViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/ClientViewController.m
+END
+LocalRoom.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/15/iPhone/App/DRay/Classes/LocalRoom.h
+END

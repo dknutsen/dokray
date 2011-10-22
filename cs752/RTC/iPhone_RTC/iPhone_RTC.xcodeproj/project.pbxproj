@@ -1,0 +1,325 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		361A449F1149DF9800A5B30F /* Background.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 361A44821149DF9800A5B30F /* Background.cpp */; };
+		361A44A01149DF9800A5B30F /* Background.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44831149DF9800A5B30F /* Background.h */; };
+		361A44A11149DF9800A5B30F /* Camera.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 361A44841149DF9800A5B30F /* Camera.cpp */; };
+		361A44A21149DF9800A5B30F /* Camera.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44851149DF9800A5B30F /* Camera.h */; };
+		361A44A31149DF9800A5B30F /* Color.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44861149DF9800A5B30F /* Color.h */; };
+		361A44A51149DF9800A5B30F /* HitRecord.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44881149DF9800A5B30F /* HitRecord.h */; };
+		361A44A71149DF9800A5B30F /* Image.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A448A1149DF9800A5B30F /* Image.h */; };
+		361A44A81149DF9800A5B30F /* Light.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 361A448B1149DF9800A5B30F /* Light.cpp */; };
+		361A44A91149DF9800A5B30F /* Light.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A448C1149DF9800A5B30F /* Light.h */; };
+		361A44AA1149DF9800A5B30F /* Material.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 361A448D1149DF9800A5B30F /* Material.cpp */; };
+		361A44AB1149DF9800A5B30F /* Material.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A448E1149DF9800A5B30F /* Material.h */; };
+		361A44AC1149DF9800A5B30F /* Object.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 361A448F1149DF9800A5B30F /* Object.cpp */; };
+		361A44AD1149DF9800A5B30F /* Object.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44901149DF9800A5B30F /* Object.h */; };
+		361A44AE1149DF9800A5B30F /* Plane.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 361A44911149DF9800A5B30F /* Plane.cpp */; };
+		361A44AF1149DF9800A5B30F /* Plane.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44921149DF9800A5B30F /* Plane.h */; };
+		361A44B01149DF9800A5B30F /* Point.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44931149DF9800A5B30F /* Point.h */; };
+		361A44B11149DF9800A5B30F /* Primitive.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44941149DF9800A5B30F /* Primitive.h */; };
+		361A44B21149DF9800A5B30F /* Ray.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44951149DF9800A5B30F /* Ray.h */; };
+		361A44B31149DF9800A5B30F /* RenderContext.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44961149DF9800A5B30F /* RenderContext.h */; };
+		361A44B51149DF9800A5B30F /* Scene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 361A44981149DF9800A5B30F /* Scene.cpp */; };
+		361A44B61149DF9800A5B30F /* Scene.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A44991149DF9800A5B30F /* Scene.h */; };
+		361A44B71149DF9800A5B30F /* Sphere.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 361A449A1149DF9800A5B30F /* Sphere.cpp */; };
+		361A44B81149DF9800A5B30F /* Sphere.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A449B1149DF9800A5B30F /* Sphere.h */; };
+		361A44BA1149DF9800A5B30F /* Timer.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A449D1149DF9800A5B30F /* Timer.h */; };
+		361A44BB1149DF9800A5B30F /* Vector.h in Headers */ = {isa = PBXBuildFile; fileRef = 361A449E1149DF9800A5B30F /* Vector.h */; };
+		3693CAF71183751900023EB8 /* Core.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3693CAF51183751900023EB8 /* Core.cpp */; };
+		3693CAF81183751900023EB8 /* Core.h in Headers */ = {isa = PBXBuildFile; fileRef = 3693CAF61183751900023EB8 /* Core.h */; };
+		AA747D9F0F9514B9006C5449 /* iPhone_RTC_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* iPhone_RTC_Prefix.pch */; };
+		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		361A44821149DF9800A5B30F /* Background.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Background.cpp; path = ../Code/Background.cpp; sourceTree = SOURCE_ROOT; };
+		361A44831149DF9800A5B30F /* Background.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Background.h; path = ../Code/Background.h; sourceTree = SOURCE_ROOT; };
+		361A44841149DF9800A5B30F /* Camera.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Camera.cpp; path = ../Code/Camera.cpp; sourceTree = SOURCE_ROOT; };
+		361A44851149DF9800A5B30F /* Camera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Camera.h; path = ../Code/Camera.h; sourceTree = SOURCE_ROOT; };
+		361A44861149DF9800A5B30F /* Color.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Color.h; path = ../Code/Color.h; sourceTree = SOURCE_ROOT; };
+		361A44881149DF9800A5B30F /* HitRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HitRecord.h; path = ../Code/HitRecord.h; sourceTree = SOURCE_ROOT; };
+		361A448A1149DF9800A5B30F /* Image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Image.h; path = ../Code/Image.h; sourceTree = SOURCE_ROOT; };
+		361A448B1149DF9800A5B30F /* Light.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Light.cpp; path = ../Code/Light.cpp; sourceTree = SOURCE_ROOT; };
+		361A448C1149DF9800A5B30F /* Light.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Light.h; path = ../Code/Light.h; sourceTree = SOURCE_ROOT; };
+		361A448D1149DF9800A5B30F /* Material.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Material.cpp; path = ../Code/Material.cpp; sourceTree = SOURCE_ROOT; };
+		361A448E1149DF9800A5B30F /* Material.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Material.h; path = ../Code/Material.h; sourceTree = SOURCE_ROOT; };
+		361A448F1149DF9800A5B30F /* Object.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Object.cpp; path = ../Code/Object.cpp; sourceTree = SOURCE_ROOT; };
+		361A44901149DF9800A5B30F /* Object.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Object.h; path = ../Code/Object.h; sourceTree = SOURCE_ROOT; };
+		361A44911149DF9800A5B30F /* Plane.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Plane.cpp; path = ../Code/Plane.cpp; sourceTree = SOURCE_ROOT; };
+		361A44921149DF9800A5B30F /* Plane.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Plane.h; path = ../Code/Plane.h; sourceTree = SOURCE_ROOT; };
+		361A44931149DF9800A5B30F /* Point.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Point.h; path = ../Code/Point.h; sourceTree = SOURCE_ROOT; };
+		361A44941149DF9800A5B30F /* Primitive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Primitive.h; path = ../Code/Primitive.h; sourceTree = SOURCE_ROOT; };
+		361A44951149DF9800A5B30F /* Ray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Ray.h; path = ../Code/Ray.h; sourceTree = SOURCE_ROOT; };
+		361A44961149DF9800A5B30F /* RenderContext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RenderContext.h; path = ../Code/RenderContext.h; sourceTree = SOURCE_ROOT; };
+		361A44981149DF9800A5B30F /* Scene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Scene.cpp; path = ../Code/Scene.cpp; sourceTree = SOURCE_ROOT; };
+		361A44991149DF9800A5B30F /* Scene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Scene.h; path = ../Code/Scene.h; sourceTree = SOURCE_ROOT; };
+		361A449A1149DF9800A5B30F /* Sphere.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Sphere.cpp; path = ../Code/Sphere.cpp; sourceTree = SOURCE_ROOT; };
+		361A449B1149DF9800A5B30F /* Sphere.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Sphere.h; path = ../Code/Sphere.h; sourceTree = SOURCE_ROOT; };
+		361A449D1149DF9800A5B30F /* Timer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Timer.h; path = ../Code/Timer.h; sourceTree = SOURCE_ROOT; };
+		361A449E1149DF9800A5B30F /* Vector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Vector.h; path = ../Code/Vector.h; sourceTree = SOURCE_ROOT; };
+		3693CAF51183751900023EB8 /* Core.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Core.cpp; path = ../Code/Core.cpp; sourceTree = SOURCE_ROOT; };
+		3693CAF61183751900023EB8 /* Core.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Core.h; path = ../Code/Core.h; sourceTree = SOURCE_ROOT; };
+		AA747D9E0F9514B9006C5449 /* iPhone_RTC_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iPhone_RTC_Prefix.pch; sourceTree = SOURCE_ROOT; };
+		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D2AAC07E0554694100DB518D /* libiPhone_RTC.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libiPhone_RTC.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D2AAC07C0554694100DB518D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DFFF38A50411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC07E0554694100DB518D /* libiPhone_RTC.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* iPhone_RTC */ = {
+			isa = PBXGroup;
+			children = (
+				08FB77AEFE84172EC02AAC07 /* Classes */,
+				32C88DFF0371C24200C91783 /* Other Sources */,
+				0867D69AFE84028FC02AAC07 /* Frameworks */,
+				034768DFFF38A50411DB9C8B /* Products */,
+			);
+			name = iPhone_RTC;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AACBBE490F95108600F1A2B1 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		08FB77AEFE84172EC02AAC07 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				3693CAF51183751900023EB8 /* Core.cpp */,
+				3693CAF61183751900023EB8 /* Core.h */,
+				361A44821149DF9800A5B30F /* Background.cpp */,
+				361A44831149DF9800A5B30F /* Background.h */,
+				361A44841149DF9800A5B30F /* Camera.cpp */,
+				361A44851149DF9800A5B30F /* Camera.h */,
+				361A44861149DF9800A5B30F /* Color.h */,
+				361A44881149DF9800A5B30F /* HitRecord.h */,
+				361A448A1149DF9800A5B30F /* Image.h */,
+				361A448B1149DF9800A5B30F /* Light.cpp */,
+				361A448C1149DF9800A5B30F /* Light.h */,
+				361A448D1149DF9800A5B30F /* Material.cpp */,
+				361A448E1149DF9800A5B30F /* Material.h */,
+				361A448F1149DF9800A5B30F /* Object.cpp */,
+				361A44901149DF9800A5B30F /* Object.h */,
+				361A44911149DF9800A5B30F /* Plane.cpp */,
+				361A44921149DF9800A5B30F /* Plane.h */,
+				361A44931149DF9800A5B30F /* Point.h */,
+				361A44941149DF9800A5B30F /* Primitive.h */,
+				361A44951149DF9800A5B30F /* Ray.h */,
+				361A44961149DF9800A5B30F /* RenderContext.h */,
+				361A44981149DF9800A5B30F /* Scene.cpp */,
+				361A44991149DF9800A5B30F /* Scene.h */,
+				361A449A1149DF9800A5B30F /* Sphere.cpp */,
+				361A449B1149DF9800A5B30F /* Sphere.h */,
+				361A449D1149DF9800A5B30F /* Timer.h */,
+				361A449E1149DF9800A5B30F /* Vector.h */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		32C88DFF0371C24200C91783 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				AA747D9E0F9514B9006C5449 /* iPhone_RTC_Prefix.pch */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC07A0554694100DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA747D9F0F9514B9006C5449 /* iPhone_RTC_Prefix.pch in Headers */,
+				361A44A01149DF9800A5B30F /* Background.h in Headers */,
+				361A44A21149DF9800A5B30F /* Camera.h in Headers */,
+				361A44A31149DF9800A5B30F /* Color.h in Headers */,
+				361A44A51149DF9800A5B30F /* HitRecord.h in Headers */,
+				361A44A71149DF9800A5B30F /* Image.h in Headers */,
+				361A44A91149DF9800A5B30F /* Light.h in Headers */,
+				361A44AB1149DF9800A5B30F /* Material.h in Headers */,
+				361A44AD1149DF9800A5B30F /* Object.h in Headers */,
+				361A44AF1149DF9800A5B30F /* Plane.h in Headers */,
+				361A44B01149DF9800A5B30F /* Point.h in Headers */,
+				361A44B11149DF9800A5B30F /* Primitive.h in Headers */,
+				361A44B21149DF9800A5B30F /* Ray.h in Headers */,
+				361A44B31149DF9800A5B30F /* RenderContext.h in Headers */,
+				361A44B61149DF9800A5B30F /* Scene.h in Headers */,
+				361A44B81149DF9800A5B30F /* Sphere.h in Headers */,
+				361A44BA1149DF9800A5B30F /* Timer.h in Headers */,
+				361A44BB1149DF9800A5B30F /* Vector.h in Headers */,
+				3693CAF81183751900023EB8 /* Core.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D2AAC07D0554694100DB518D /* iPhone_RTC */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "iPhone_RTC" */;
+			buildPhases = (
+				D2AAC07A0554694100DB518D /* Headers */,
+				D2AAC07B0554694100DB518D /* Sources */,
+				D2AAC07C0554694100DB518D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iPhone_RTC;
+			productName = iPhone_RTC;
+			productReference = D2AAC07E0554694100DB518D /* libiPhone_RTC.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "iPhone_RTC" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 0867D691FE84028FC02AAC07 /* iPhone_RTC */;
+			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2AAC07D0554694100DB518D /* iPhone_RTC */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2AAC07B0554694100DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				361A449F1149DF9800A5B30F /* Background.cpp in Sources */,
+				361A44A11149DF9800A5B30F /* Camera.cpp in Sources */,
+				361A44A81149DF9800A5B30F /* Light.cpp in Sources */,
+				361A44AA1149DF9800A5B30F /* Material.cpp in Sources */,
+				361A44AC1149DF9800A5B30F /* Object.cpp in Sources */,
+				361A44AE1149DF9800A5B30F /* Plane.cpp in Sources */,
+				361A44B51149DF9800A5B30F /* Scene.cpp in Sources */,
+				361A44B71149DF9800A5B30F /* Sphere.cpp in Sources */,
+				3693CAF71183751900023EB8 /* Core.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB921F08733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/iPhone_RTC.dst;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iPhone_RTC_Prefix.pch;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = iPhone_RTC;
+			};
+			name = Debug;
+		};
+		1DEB922008733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				DSTROOT = /tmp/iPhone_RTC.dst;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iPhone_RTC_Prefix.pch;
+				INSTALL_PATH = /usr/local/lib;
+				PRODUCT_NAME = iPhone_RTC;
+			};
+			name = Release;
+		};
+		1DEB922308733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Debug;
+		};
+		1DEB922408733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "iPhone_RTC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB921F08733DC00010E9CD /* Debug */,
+				1DEB922008733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "iPhone_RTC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB922308733DC00010E9CD /* Debug */,
+				1DEB922408733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}

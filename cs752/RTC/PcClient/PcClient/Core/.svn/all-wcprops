@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/cs752/!svn/ver/14/RTC/PcClient/PcClient/Core
+END
+Color.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/14/RTC/PcClient/PcClient/Core/Color.cs
+END
+Background.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs752/!svn/ver/11/RTC/PcClient/PcClient/Core/Background.cs
+END
+HitRecord.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/11/RTC/PcClient/PcClient/Core/HitRecord.cs
+END
+RenderContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cs752/!svn/ver/11/RTC/PcClient/PcClient/Core/RenderContext.cs
+END
+Sphere.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cs752/!svn/ver/14/RTC/PcClient/PcClient/Core/Sphere.cs
+END
+Core.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/cs752/!svn/ver/11/RTC/PcClient/PcClient/Core/Core.cs
+END
+Camera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cs752/!svn/ver/11/RTC/PcClient/PcClient/Core/Camera.cs
+END
+Point.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/11/RTC/PcClient/PcClient/Core/Point.cs
+END
+Ray.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/cs752/!svn/ver/11/RTC/PcClient/PcClient/Core/Ray.cs
+END
+Scene.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/14/RTC/PcClient/PcClient/Core/Scene.cs
+END
+Material.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cs752/!svn/ver/14/RTC/PcClient/PcClient/Core/Material.cs
+END
+Plane.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/14/RTC/PcClient/PcClient/Core/Plane.cs
+END
+Vector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cs752/!svn/ver/11/RTC/PcClient/PcClient/Core/Vector.cs
+END
+Object.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cs752/!svn/ver/14/RTC/PcClient/PcClient/Core/Object.cs
+END
+Light.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cs752/!svn/ver/14/RTC/PcClient/PcClient/Core/Light.cs
+END
+Primitive.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cs752/!svn/ver/11/RTC/PcClient/PcClient/Core/Primitive.cs
+END

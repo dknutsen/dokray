@@ -1,0 +1,249 @@
+TSimpleApp
+v7
+r0
+t289268495.692618
+cCheck dependencies
+cProcessInfoPlistFile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/Info.plist SimpleApp-Info.plist
+cCompileXIB /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/MainWindow.xib
+cCompileXIB /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/whatup.xib
+cProcessPCH /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleApp_Prefix-bvvvwruaaksltweqoutzmociilpe/SimpleApp_Prefix.pch.gch SimpleApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/main.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/SimpleAppAppDelegate.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/whatupvc.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/../whatupvc.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B18589500000000000000EE
+t1259886741
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/../whatupvc.m
+c000000004B8DA9A700000000000005C9
+t1267575207
+s1481
+i"whatupvc.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.h
+c000000004B8DAB8D0000000000000198
+t1267575693
+s408
+i<UIKit/UIKit.h>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m
+c000000004B8DAB8D0000000000000295
+t1267575693
+s661
+i"SimpleAppAppDelegate.h"
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/MainWindow.xib
+c000000004B8DA8180000000000001F5D
+t1267574808
+s8029
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/SimpleApp_Prefix.pch
+c000000004B8DA81800000000000000BB
+t1267574808
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app.dSYM
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/Info.plist
+t1267575693
+s572
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/MainWindow.nib
+t1267575694
+s1347
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/PkgInfo
+t1267575693
+s8
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/SimpleApp
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/whatup.nib
+t1267575694
+s1504
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/SimpleApp.LinkFileList
+c000000004B8DAB8D00000000000001D6
+t1267575693
+s470
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/SimpleAppAppDelegate.o
+t2
+s0
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/main.o
+t1267575695
+s6004
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/whatupvc.o
+t1267575695
+s29836
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/main.m
+c000000004B8DA8180000000000000166
+t1267574808
+s358
+i<UIKit/UIKit.h>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/whatup.xib
+c000000004B8DA97200000000000019F5
+t1267575154
+s6645
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/whatupvc.h
+c000000004B8DA9A700000000000000D1
+t1267575207
+s209
+i<UIKit/UIKit.h>
+
+N/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/whatupvc.m
+c000000004B8DA9A700000000000005C9
+t1267575207
+s1481
+i"whatupvc.h"
+
+N/var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleApp_Prefix-bvvvwruaaksltweqoutzmociilpe/SimpleApp_Prefix.pch.gch
+t1267575695
+s13034960
+
+NSimpleApp-Info.plist
+c000000004B8DA818000000000000038D
+t1267574808
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289268493#289268493#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/SimpleAppAppDelegate.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289268495.567324
+e289268495.628990
+r0
+xCompileC
+xbuild/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/SimpleAppAppDelegate.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m: In function '-[SimpleAppAppDelegate applicationDidFinishLaunching:]':
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:17: error: 'HelloWorldViewController' undeclared (first use in this function)
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:17: error: (Each undeclared identifier is reported only once
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:17: error: for each function it appears in.)
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:24: error: expected ']' before ';' token
+o/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:28: error: expected ';' before '}' token
+lSLF07#2@101"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m289268495#289268495#0(901"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m: In function '-[SimpleAppAppDelegate applicationDidFinishLaunching:]':/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:17: error: 'HelloWorldViewController' undeclared (first use in this function)/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:17: error: (Each undeclared identifier is reported only once/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:17: error: for each function it appears in.)/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:24: error: expected ']' before ';' token/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m:28: error: expected ';' before '}' token3(4@66"'HelloWorldViewController' undeclared (first use in this function)289268495#165#172#0(6@93"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m289268493#17#0#17#0#43"'*' undeclared (first use in this function)0(4@29"Expected ']' before ';' token289268495#631#135#0(6@93"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m289268493#24#0#24#0#19"expected * before *0(4@29"Expected ';' before '}' token289268495#766#135#0(6@93"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m289268493#28#0#28#0#19"expected * before *0(0#0#93"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m4300885448#2203"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleApp_Prefix-bvvvwruaaksltweqoutzmociilpe/SimpleApp_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/SimpleAppAppDelegate.m -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/SimpleAppAppDelegate.o1#
+
+CCompileC build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/main.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289268495.566067
+e289268495.656804
+r1
+xCompileC
+xbuild/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/main.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/main.m289268495#289268495#0(0"0(0#0#69"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/main.m4300885448#2163"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleApp_Prefix-bvvvwruaaksltweqoutzmociilpe/SimpleApp_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/main.m -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/whatupvc.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/../whatupvc.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289268495.629111
+e289268495.692524
+r1
+xCompileC
+xbuild/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/whatupvc.o
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/../whatupvc.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/../whatupvc.m289268495#289268495#0(0"0(0#0#84"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/../whatupvc.m4300885448#2182"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/DerivedSources -include /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleApp_Prefix-bvvvwruaaksltweqoutzmociilpe/SimpleApp_Prefix.pch -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/Classes/../whatupvc.m -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/whatupvc.o0#
+
+CCompileC build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/Objects-normal/i386/whatupvc.o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/whatupvc.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/MainWindow.xib
+s289268493.792168
+e289268494.195279
+r1
+xCompileXIB
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289268493#289268494#0(0"0(0#0#77"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/MainWindow.xib4300885448#556"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/MainWindow.nib /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/MainWindow.xib0#
+
+CCompileXIB /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/whatup.xib
+s289268493.884173
+e289268494.201813
+r1
+xCompileXIB
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/whatup.xib
+lSLF07#2@21"CompileXIB whatup.xib289268493#289268494#0(0"0(0#0#73"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/whatup.xib4300885448#548"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/whatup.nib /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/whatup.xib0#
+
+CGenerateDSYMFile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app.dSYM /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/SimpleApp
+r0
+
+CLd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/SimpleApp normal i386
+r0
+
+CProcessInfoPlistFile /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/Info.plist SimpleApp-Info.plist
+s289268493.783858
+e289268493.792071
+r1
+xProcessInfoPlistFile
+x/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/Info.plist
+xSimpleApp-Info.plist
+lSLF07#2@28"Process SimpleApp-Info.plist289268493#289268493#0(0"0(0#0#83"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/SimpleApp-Info.plist4300885448#557"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SimpleApp-Info.plist -genpkginfo /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app/Info.plist0#
+
+CProcessPCH /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleApp_Prefix-bvvvwruaaksltweqoutzmociilpe/SimpleApp_Prefix.pch.gch SimpleApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289268494.201951
+e289268495.565880
+r1
+xProcessPCH
+x/var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleApp_Prefix-bvvvwruaaksltweqoutzmociilpe/SimpleApp_Prefix.pch.gch
+xSimpleApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile SimpleApp_Prefix.pch289268494#289268495#0(0"0(0#0#83"/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/SimpleApp_Prefix.pch4300885448#2029"    cd /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-generated-files.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-own-target-headers.hmap -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-all-target-headers.hmap -iquote /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/SimpleApp-project-headers.hmap -F/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/include -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/DerivedSources/i386 -I/Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/SimpleApp.build/Debug-iphonesimulator/SimpleApp.build/DerivedSources -c /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/SimpleApp_Prefix.pch -o /var/folders/ZU/ZUyOvgdOGwuADiyZQGyYkE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleApp_Prefix-bvvvwruaaksltweqoutzmociilpe/SimpleApp_Prefix.pch.gch0#
+
+CTouch /Users/dokbeast/Documents/Code/CS752/iPhone/firstapp/SimpleApp/build/Debug-iphonesimulator/SimpleApp.app
+r0
+

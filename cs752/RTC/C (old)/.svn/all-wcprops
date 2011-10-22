@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/cs752/!svn/ver/5/RTC/C%20(old)
+END
+color.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/cs752/!svn/ver/4/RTC/C%20(old)/color.c
+END
+ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/cs752/!svn/ver/4/RTC/C%20(old)/ray.h
+END
+vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/cs752/!svn/ver/4/RTC/C%20(old)/vector.c
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/cs752/!svn/ver/4/RTC/C%20(old)/color.h
+END
+sphere.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/cs752/!svn/ver/5/RTC/C%20(old)/sphere.c
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/cs752/!svn/ver/4/RTC/C%20(old)/vector.h
+END
+ray.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/cs752/!svn/ver/4/RTC/C%20(old)/ray.c
+END
+sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/cs752/!svn/ver/5/RTC/C%20(old)/sphere.h
+END
