@@ -1,9 +1,9 @@
 #ifndef Camera_hh
 #define Camera_hh
 
-#include "Vector.h"
-#include "Point.h"
-#include "Ray.h"
+#include "Vector.hh"
+#include "Point.hh"
+#include "Ray.hh"
 
 class RenderContext;
 
@@ -11,11 +11,11 @@ class RenderContext;
 class Camera
 {
 public:
-   virtual void preprocess(float aspect) = 0;
+   virtual void Preprocess(float aspect) = 0;
 
-   virtual void generateRay(Ray& ray, const RenderContext& rc, float x, float y)const = 0;
+   virtual void GenerateRay(Ray& ray, const RenderContext& rc, float x, float y)const = 0;
 
-   virtual Point getEye()=0;
+   virtual Point GetEye()=0;
 };
 
 
@@ -32,11 +32,11 @@ private:
 public:
    PinholeCamera(Point eye, Point lat, Vector up, float fov);
 
-   virtual Point getEye();
+   virtual Point GetEye();
 
-   virtual void preprocess(float aspect);
+   virtual void Preprocess(float aspect);
 	
-   virtual void generateRay(Ray& ray, const RenderContext& rc, float x, float y)const;
+   virtual void GenerateRay(Ray& ray, const RenderContext& rc, float x, float y)const;
 
    // wtf is this?
    /*Ray rays[xres*yres];

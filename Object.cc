@@ -1,18 +1,18 @@
 
 
-#include "Object.h"
+#include "Object.hh"
 
 
-void Group::preprocess(){
+void Group::Preprocess(){
    for(int i=0; i<objects.size(); i++)
-      objects[i]->preprocess();
+      objects[i]->Preprocess();
 }
 
-void Group::intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const{
+void Group::Intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const{
    for(int i=0; i<objects.size(); i++)
-      objects[i]->intersect(hit, rc, ray);
+      objects[i]->Intersect(hit, rc, ray);
 }
 
-void Group::add_object(Object* object){
+void Group::AddObject(Object* object){
    objects.push_back(object);
 }

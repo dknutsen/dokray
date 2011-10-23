@@ -18,9 +18,9 @@ class Object{
 private:
 
 public:
-   virtual void preprocess() = 0;
+   virtual void Preprocess() = 0;
 
-   virtual void intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray) const=0;
+   virtual void Intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray) const=0;
 };
 
 
@@ -28,11 +28,11 @@ class Group : public Object{
 private:
    vector<Object*> objects;
 public:
-   void preprocess();
+   void Preprocess();
 
-   void intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray) const;
+   void Intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray) const;
 
-   void add_object(Object* object);
+   void AddObject(Object* object);
 };
 
 #endif

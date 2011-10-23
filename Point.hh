@@ -6,7 +6,7 @@
 #ifndef Point_hh
 #define Point_hh
 
-#include "Vector.h"
+#include "Vector.hh"
 
 #include <iostream>
 using std::ostream;
@@ -18,7 +18,7 @@ private:
 
 public:
    /*-------- Constructors -------------*/
-   Point::Point(float x, float y, float z){	// construct from coordinates
+   Point(float x, float y, float z){	// construct from coordinates
       c[0] = x; c[1] = y; c[2] = z;
    }
 
@@ -89,7 +89,7 @@ public:
       return Vector(p1.x() - p2.x(), p1.y() - p2.y(), p1.z() - p2.z());
    }
 
-   friend operator<<(ostream& os, const Point& p){	// stream to console
+   friend ostream& operator<<(ostream& os, const Point& p){	// stream to console
        os << "(" << p.x() << "," << p.y() << "," << p.z() << ")";
        return os;
    }

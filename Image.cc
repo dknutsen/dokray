@@ -9,7 +9,7 @@ using std::ios;
 using std::cerr;
 using std::endl;
 
-#include "Image.h"
+#include "Image.hh"
 
 Image::Image(unsigned int xres_, unsigned int yres_) :
   xres(xres_), yres(yres_)
@@ -26,7 +26,7 @@ Image::~Image()
    delete [] pixels;
 }
 
-void Image::writePPM(const string& fname) const
+void Image::WritePPM(const string& fname) const
 {
    FILE* fp = fopen(fname.c_str(), "wb");
    if (!fp) {
@@ -73,7 +73,7 @@ void Image::writePPM(const string& fname) const
   fclose(fp);
 }
 
-void Image::writeBMP(const string& fname) const
+void Image::WriteBMP(const string& fname) const
 {
    ofstream out;
    out.open(fname.c_str(), ios::binary);
@@ -147,3 +147,4 @@ void Image::writeLittleEndian(unsigned long int num, ostream& out, int numBytes)
 
    delete [] data;
 }
+

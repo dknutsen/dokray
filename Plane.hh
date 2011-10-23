@@ -1,9 +1,9 @@
-#ifndef Plane_h
-#define Plane_h
+#ifndef Plane_hh
+#define Plane_hh
 
-#include "Primitive.h"
-#include "Vector.h"
-#include "Point.h"
+#include "Primitive.hh"
+#include "Vector.hh"
+#include "Point.hh"
 
 class HitRecord;
 class RenderContext;
@@ -18,11 +18,11 @@ private:
 public:
    Plane(Material* material, Vector normal, Point point);
 
-   void preprocess();
+   void Preprocess();
 
-   Vector normal(const Point& point)const;
+   Vector Normal(const Point& point)const;
 
-   void intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const;
+   void Intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const;
 };
 
 #endif

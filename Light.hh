@@ -1,18 +1,18 @@
-#ifndef Light_h
-#define Light_h
+#ifndef Light_hh
+#define Light_hh
 
-#include "Color.h"
-#include "Vector.h"
-#include "RenderContext.h"
-#include "Point.h"
+#include "Color.hh"
+#include "Vector.hh"
+#include "RenderContext.hh"
+#include "Point.hh"
 
 class Light{
 private:
 
 public:
-   virtual void preprocess() = 0;
+   virtual void Preprocess() = 0;
 
-   virtual float getLight(Color& lcolor, Vector& ldir, const RenderContext& rc, const Point& hp) const=0;
+   virtual float GetLight(Color& lcolor, Vector& ldir, const RenderContext& rc, const Point& hp) const=0;
 };
 
 
@@ -24,9 +24,9 @@ private:
 public:
    PointLight(Point p, Color color);
 
-   void preprocess();
+   void Preprocess();
 
-   float getLight(Color& lcolor, Vector& ldir, const RenderContext& rc, const Point& hp) const;
+   float GetLight(Color& lcolor, Vector& ldir, const RenderContext& rc, const Point& hp) const;
 };
 
 
@@ -38,9 +38,9 @@ private:
 public:
    DirectionalLight(Vector dir, Color color);
 
-   void preprocess();
+   void Preprocess();
 
-   float getLight(Color& lcolor, Vector& ldir, const RenderContext& rc, const Point& hp) const;
+   float GetLight(Color& lcolor, Vector& ldir, const RenderContext& rc, const Point& hp) const;
 };
 
 #endif

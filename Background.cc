@@ -1,16 +1,16 @@
 
 
-#include "Background.h"
+#include "Background.hh"
 
 BackgroundConstant::BackgroundConstant(Color color):color(color) {
 
 }
 
-void BackgroundConstant::preprocess(){ 
+void BackgroundConstant::Preprocess(){ 
 
 }
 
-Color BackgroundConstant::getColor(const RenderContext& rc, const Ray& ray)const{
+Color BackgroundConstant::GetColor(const RenderContext& rc, const Ray& ray)const{
    return color;
 }
 
@@ -21,4 +21,4 @@ Color BackgroundConstant::getColor(const RenderContext& rc, const Ray& ray)const
 /*   BackgroundImage
  *
  *
- * /
+ */

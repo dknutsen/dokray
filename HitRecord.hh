@@ -7,8 +7,8 @@
 #ifndef HitRecord_hh
 #define HitRecord_hh
 
-#include "Primitive.h"
-#include "Material.h"
+#include "Primitive.hh"
+#include "Material.hh"
 #include <limits>
 
 
@@ -35,7 +35,7 @@ public:
    Material* GetMaterial(){ return material; }
 
    /*------------------- Hit Record Functions ---------*/
-   bool hit(float t, const Primitive* hit_primitive, const Material* hit_material){
+   bool Hit(float t, const Primitive* hit_primitive, const Material* hit_material){
       if(this->t > t){
          this->t = t;
          this->primitive = (Primitive*)hit_primitive;

@@ -7,7 +7,7 @@
 #ifndef Material_hh
 #define Material_hh
 
-#include "Color.h"
+#include "Color.hh"
 
 class RenderContext;
 class Ray;
@@ -18,9 +18,9 @@ class Material{
 private:
 
 public:
-   virtual void preprocess() = 0;
+   virtual void Preprocess() = 0;
 
-   virtual Color shade(const RenderContext& rc, const Ray& ray, const HitRecord& hrec, int depth) const=0;
+   virtual Color Shade(const RenderContext& rc, const Ray& ray, const HitRecord& hrec, int depth) const=0;
 };
 
 
@@ -33,9 +33,9 @@ private:
 public:
    LambertianMaterial(Color color, float kd, float ka);
 
-   void preprocess();
+   void Preprocess();
 
-   Color shade(const RenderContext& rc, const Ray& ray, const HitRecord& hrec, int depth) const;
+   Color Shade(const RenderContext& rc, const Ray& ray, const HitRecord& hrec, int depth) const;
 };
 
 
@@ -49,9 +49,9 @@ private:
 public:
    PhongMaterial(Color color, float ke, float kd, float ka, float ks, float shininess);
 
-   void preprocess();
+   void Preprocess();
 
-   Color shade(const RenderContext& rc, const Ray& ray, const HitRecord& hrec, int depth) const;
+   Color Shade(const RenderContext& rc, const Ray& ray, const HitRecord& hrec, int depth) const;
 };
 
 #endif

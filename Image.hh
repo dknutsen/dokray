@@ -1,11 +1,11 @@
 
-#ifndef rt361_Image_h
-#define rt361_Image_h
+#ifndef Image_hh
+#define Image_hh
 
 #include <string>
 using std::string;
 
-#include "Color.h"
+#include "Color.hh"
 
 // TODO:
 // -- Learn this class
@@ -19,13 +19,13 @@ public:
    Image(unsigned int xres_, unsigned int yres_);
    ~Image();
 
-   unsigned int get_xres() const { return xres; }
-   unsigned int get_yres() const { return yres; }
-   float aspect() const { return static_cast<float>(xres)/yres; }
-   void set(unsigned int x, unsigned int y, const Color& c) { pixels[y][x] = c; }
+   unsigned int GetXRes() const { return xres; }
+   unsigned int GetYRes() const { return yres; }
+   float Aspect() const { return static_cast<float>(xres)/yres; }
+   void Set(unsigned int x, unsigned int y, const Color& c) { pixels[y][x] = c; }
 
-   void writePPM(const string& fname) const;
-   void writeBMP(const string& fname) const;
+   void WritePPM(const string& fname) const;
+   void WriteBMP(const string& fname) const;
 
 private:
    unsigned int xres;

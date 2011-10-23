@@ -6,8 +6,8 @@
 #ifndef Ray_hh
 #define Ray_hh
 
-#include "Vector.h"
-#include "Point.h"
+#include "Vector.hh"
+#include "Point.hh"
 
 /*   todo: use heap allocation?
  *
@@ -25,7 +25,7 @@ public:
    Ray(const Point& point, const Vector& direction){	// parameter constructor
       origin = point;
       dir = direction;
-      dir.normalize();
+      dir.Normalize();
    }
 
    Ray(float x, float y, float z, float u, float v, float w) // parameter constructor
@@ -34,10 +34,10 @@ public:
       dir = Vector(u,v,w);
    }
 
-   Ray(const Ray &r){
+   Ray(const Ray &ray){
       origin = Point();
       dir = Vector();
-      origin += Ray.origin;
+      origin += ray.origin;
       dir += ray.dir; 
    }
 
@@ -48,25 +48,25 @@ public:
 
 
    /*------------------- Accessors ------------*/ 
-   Point point()const{
+   Point Origin()const{
       return origin;
    }
 
-   Vector direction()const{
+   Vector Direction()const{
       return dir;
    }
 
-   Point& point(){
+   Point& Origin(){
       return origin;
    }
 
-   Vector& direction(){
+   Vector& Direction(){
       return dir;
    }
 
 
    /*--------------- Ray Functions -----------*/
-   Point pointOn(float t){
+   Point PointOn(float t){
       return origin + t*dir;
    }
 };

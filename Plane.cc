@@ -1,7 +1,7 @@
 
-#include "Plane.h"
-#include "Ray.h"
-#include "HitRecord.h"
+#include "Plane.hh"
+#include "Ray.hh"
+#include "HitRecord.hh"
 
 Plane::Plane(Material* material, Vector normal, Point point){
    this->material = material;
@@ -9,25 +9,25 @@ Plane::Plane(Material* material, Vector normal, Point point){
    this->point = point;
 }
 
-void Plane::preprocess(){
-   normal.normalize();
-   material->preprocess();
+void Plane::Preprocess(){
+   normal.Normalize();
+   material->Preprocess();
 }
 
-Vector Plane::normal(const Point& point)const{
+Vector Plane::Normal(const Point& point)const{
    return normal;
 }
 
-void Plane::intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const{
+void Plane::Intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const{
    //Vector p(ray.p().x(),ray.p().y(),ray.p().z());
    //Vector o(point.x(),point.y(),point.z());
    //float d = dot(o, norm);
 
-   float num = dot(-normal, ray.p()-point);
-   float denom = dot(normal, ray.d());
+   float num = Dot(-normal, ray.Origin()-point);
+   float denom = Dot(normal, ray.Direction());
    float t=num/denom;
-   if(denom==0 || num==0 || t<0) hit.hit(std::numeric_limits<float>::infinity(), this, material);
-   else hit.hit(num/denom, this, material);
+   if(denom==0 || num==0 || t<0) hit.Hit(std::numeric_limits<float>::infinity(), this, material);
+   else hit.Hit(num/denom, this, material);
 	
    //float num = -(dot(norm,p)+d);
    //float denom = dot(norm, ray.d());

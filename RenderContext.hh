@@ -1,5 +1,5 @@
-#ifndef RenderContext_h
-#define RenderContext_h
+#ifndef RenderContext_hh
+#define RenderContext_hh
 
 
 class Scene;
@@ -10,7 +10,7 @@ private:
    Scene* scene;
 public:
    RenderContext(Scene* scene) {this->scene = scene;}
-   const Scene* getScene() const{return scene;}
+   const Scene* GetScene() const{return scene;}
 };
 
 #endif

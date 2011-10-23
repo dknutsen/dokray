@@ -6,7 +6,7 @@
 #ifndef Color_hh
 #define Color_hh
 
-#include "Vector.h"
+#include "Vector.hh"
 
 #include <iostream>
 using std::ostream;
@@ -30,7 +30,7 @@ public:
       c[2] = color.b();
    }
 
-   Color::Color(){
+   Color(){
       c[0] = 0;
       c[1] = 0;
       c[2] = 0;
@@ -101,13 +101,23 @@ public:
 
    /*-------------------------------- Color Functions -----------------*/
    // rename this something better
-   void crustualize(){
+/*   void crustualize(){
       float max=0.f;
       for(int i=0; i<3; i++)
          if(c[i]>max) max = c[i];
       float dmax = 1.f/max;
       for(int i=0; i<3; i++)
          c[i] *= dmax;
+   }
+*/
+
+   // Move this to new Post Processing library
+   Color PsuedoPhotoExposure(Color& color)
+   {
+      float exposure = -1.00f; // random exposure value. TODO : determine a good value automatically
+      color.b() = (1.0f - expf(color.b() * exposure));
+      color.r() = (1.0f - expf(color.r() * exposure));
+      color.g() = (1.0f - expf(color.g() * exposure));
    }
 };
 

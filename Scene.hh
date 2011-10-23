@@ -1,7 +1,7 @@
-#ifndef Scene_h
-#define Scene_h
+#ifndef Scene_hh
+#define Scene_hh
 
-#include "Color.h"
+#include "Color.hh"
 
 #include <vector>
 using std::vector;
@@ -26,37 +26,37 @@ private:
    vector<Light*> lights;
    //vector<Object*> objects;
 
-   void traceRay(const Ray& ray, HitRecord& hr, RenderContext& rc)const;
+   void TraceRay(const Ray& ray, HitRecord& hr, RenderContext& rc)const;
 
 public:
    /*------------------- Set Methods -----------------*/
-   void set_ambient(Color ambient);
+   void SetAmbient(Color ambient);
 
-   void set_background(Background* background);
+   void SetBackground(Background* background);
 
-   void set_camera(Camera* camera);
+   void SetCamera(Camera* camera);
 
-   void set_image(Image* image);
+   void SetImage(Image* image);
 
-   void set_object(Object* object);
+   void SetObject(Object* object);
 
-   void add_light(Light* light);
+   void AddLight(Light* light);
 
    /*------------------ Get Methods ------------------*/
-   Light* get_light(int index);
+   Light* GetLight(int index);
 
-   int num_lights();
+   int NumLights();
 
-   Color get_ambient()const;
+   Color GetAmbient()const;
 
-   Object* get_object();
+   Object* GetObject();
 
-   Camera* get_camera();
+   Camera* GetCamera();
 
    /*---------------- Other Methods ----------------*/
-   void preprocess();
+   void Preprocess();
 
-   void render();
+   void Render();
 };
 
 #endif

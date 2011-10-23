@@ -3,28 +3,30 @@
 using std::cout;
 using std::endl;
 
-#include "Timer.h"
+#include "Timer.hh"
 using simdrt::Timer;
 
-#include "Image.h"
+#include "Image.hh"
+#include "Scene.hh"
+#include "SceneCreator.hh"
 
 int main()
 {
-  const unsigned int xres = 1024;
-  const unsigned int yres = 1024;
+  const unsigned int xres = 200;
+  const unsigned int yres = 200;
   Image image(xres, yres);
 
   Scene* scene = make_scene();
-  scene->set_image(&image);
-  scene->preprocess();
+  scene->SetImage(&image);
+  scene->Preprocess();
 
   Timer timer;
-  scene->render();
+  scene->Render();
 
   cout << "Rendered " << xres << 'x' << yres << " pixel image in "
        << timer.getElapsed() << " seconds" << endl;
 
-  image.writeBMP("output.bmp");
+  image.WriteBMP("output.bmp");
 
   cout << std::flush;
 

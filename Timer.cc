@@ -6,7 +6,7 @@ using std::setw;
 #include <iostream>
 using std::ios;
 
-#include "Timer.h"
+#include "Timer.hh"
 
 namespace simdrt
 {

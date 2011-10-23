@@ -1,16 +1,16 @@
 #ifndef Background_hh
 #define Background_hh
 
-#include "RenderContext.h"
-#include "Ray.h"
-#include "Color.h"
+#include "RenderContext.hh"
+#include "Ray.hh"
+#include "Color.hh"
 
 class Background
 {
 public:
-   virtual void preprocess() = 0;
+   virtual void Preprocess() = 0;
 
-   virtual Color getColor(const RenderContext& rc, const Ray& ray) const = 0;
+   virtual Color GetColor(const RenderContext& rc, const Ray& ray) const = 0;
 };
 
 class BackgroundConstant : public Background
@@ -21,9 +21,9 @@ private:
 public:
    BackgroundConstant(Color color);
 
-   void preprocess();
+   void Preprocess();
 
-   Color getColor(const RenderContext& rc, const Ray& ray)const;
+   Color GetColor(const RenderContext& rc, const Ray& ray)const;
 };
 
 

@@ -97,32 +97,32 @@ public:
    }
 
    /*---------------- Vector Functions -------------*/
-   float  length()const{
-      return sqrt(c[0]*c[0] + c[1]*c[1] + c[2]*c[2]);
+   float  Length()const{
+      return sqrt(this->Length2());
    }
 
-   float  length2()const{
+   float  Length2()const{
       return c[0]*c[0] + c[1]*c[1] + c[2]*c[2];
    }
 
-   Vector normal()const{
-      float length = this->length();
+   Vector Normal()const{
+      float length = this->Length();
       float div = 1/length;
       return Vector(c[0]*div, c[1]*div, c[2]*div);
    }
 
-   float normalize(){
-      float length = this->length();
+   float Normalize(){
+      float length = this->Length();
       float div = 1/length;
       c[0] *= div; c[1] *= div; c[2] *= div;
       return length;
    }
 
-   friend float dot(const Vector& v1, const Vector& v2){
+   friend float Dot(const Vector& v1, const Vector& v2){
       return v1.x()*v2.x() + v1.y()*v2.y() + v1.z()*v2.z();
    }
 
-   friend Vector cross(const Vector& v1, const Vector& v2){
+   friend Vector Cross(const Vector& v1, const Vector& v2){
       return Vector(
          v1.y()*v2.z() - v1.z()*v2.y(),
          v1.z()*v2.x() - v1.x()*v2.z(),

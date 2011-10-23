@@ -1,6 +1,6 @@
 
 
-#include "Sphere.h"
+#include "Sphere.hh"
 #include <iostream>
 
 using std::cout;
@@ -14,30 +14,30 @@ Sphere::Sphere(){
 Sphere::Sphere(Material* material, const Point& center, float radius){
    this->material = material;
    this->center = center;
-   this->radiur = radius;
+   this->radius = radius;
 }
 
-Point Sphere::getCenter()const{ return center; }
+Point Sphere::GetCenter()const{ return center; }
 
-float Sphere::getRadius()const{ return radius; }
+float Sphere::GetRadius()const{ return radius; }
 
-Point& Sphere::getCenter(){ return center; }
+Point& Sphere::GetCenter(){ return center; }
 
-float& Sphere::getRadius(){ return radisu; }
+float& Sphere::GetRadius(){ return radius; }
 
-float Sphere::getRadiusSquared()const{ return radius*radius; }
+float Sphere::GetRadiusSquared()const{ return radius*radius; }
 
 
 
-void Sphere::preprocess(){
-   material->preprocess();
+void Sphere::Preprocess(){
+   material->Preprocess();
 }
 
-Vector Sphere::normal(const Point& point)const{
-   return (point-center).normal();
+Vector Sphere::Normal(const Point& point)const{
+   return (point-center).Normal();
 }
 
-void Sphere::intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const{
+void Sphere::Intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const{
 	/*float a = dot(ray.d(), ray.d());
 	Vector v = ray.p()-p;/*Vector(ray.p().x(), ray.p().y(), ray.p().z());*/
     /*float b = 2 * dot(ray.d(), v);
@@ -62,11 +62,11 @@ void Sphere::intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)c
 	if (t0 < 0) hit.hit(t1, this, material);
     else		hit.hit(t0, this, material);*/
 
-   Vector dist = ray.point() - center;
-   float b = dot(dist, ray.direction());
-   float c = dot(dist, dist) - getRadiusSquared();
+   Vector dist = ray.Origin() - center;
+   float b = Dot(dist, ray.Direction());
+   float c = Dot(dist, dist) - GetRadiusSquared();
    float d = b*b - c;
    float t = d > 0 ? -b - sqrt(d) : std::numeric_limits<float>::infinity();
 
-   hit.hit(t, this, this->material);
+   hit.Hit(t, this, this->material);
 }

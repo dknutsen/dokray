@@ -5,15 +5,15 @@
 	Desc:	This is the header file for the Sphere class
 */
 
-#ifndef Sphere_h
-#define Sphere_h
+#ifndef Sphere_hh
+#define Sphere_hh
 
-#include "Primitive.h"
-#include "Vector.h"
-#include "Point.h"
-#include "Ray.h"
-#include "HitRecord.h"
-#include "RenderContext.h"
+#include "Primitive.hh"
+#include "Vector.hh"
+#include "Point.hh"
+#include "Ray.hh"
+#include "HitRecord.hh"
+#include "RenderContext.hh"
 
 class Sphere : public Primitive
 {
@@ -25,17 +25,17 @@ public:
    Sphere();
    Sphere(Material* material, const Point& center, float radius);
 
-   Point getCenter()const;
-   float getRadius()const;
-   Point& getCenter();
-   float& getRadius();
-   float getRadiusSquared()const;
+   Point GetCenter()const;
+   float GetRadius()const;
+   Point& GetCenter();
+   float& GetRadius();
+   float GetRadiusSquared()const;
 
-   void preprocess();
+   void Preprocess();
 
-   Vector normal(const Point& point)const;
+   Vector Normal(const Point& point)const;
 
-   void intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const;
+   void Intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const;
 };
 
 #endif

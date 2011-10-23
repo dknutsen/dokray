@@ -7,9 +7,9 @@
 #ifndef Primitive_hh
 #define Primitive_hh
 
-#include "Object.h"
-#include "Vector.h"
-#include "Point.h"
+#include "Object.hh"
+#include "Vector.hh"
+#include "Point.hh"
 
 class Material;
 class HitRecord;
@@ -22,11 +22,11 @@ protected:
    Material* material;
 
 public:
-   virtual void preprocess() = 0;
+   virtual void Preprocess() = 0;
 
-   virtual Vector normal(const Point& point)const=0;
+   virtual Vector Normal(const Point& point)const=0;
 
-   virtual void intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const=0;
+   virtual void Intersect(HitRecord& hit, const RenderContext& rc, const Ray& ray)const=0;
 };
 
 #endif
